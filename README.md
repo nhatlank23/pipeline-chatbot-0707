@@ -1,58 +1,55 @@
-# OptiBot RAG Chatbot & Scraper Pipeline
+# OptiBot: Zendesk to Gemini RAG Pipeline & Chatbot
 
-Hệ thống tự động cào dữ liệu (scraping) tài liệu hỗ trợ từ Zendesk Help Center, lưu trữ và đồng bộ hóa delta (chỉ đồng bộ thay đổi) lên Google Gemini File Search Store để phục vụ RAG Chatbot (OptiSigns support bot).
-
-## Các liên kết theo dõi nhanh (Job Logs & Artifacts)
-*   **[Thư mục chứa logs chạy hàng ngày (Job Logs)](https://github.com/nhatlank23/pipeline-chatbot-0707/tree/main/logs)**: Nơi lưu các file log `run_<timestamp>.log` được sinh ra tự động bởi GitHub Actions sau mỗi phiên chạy.
-*   **[Trạng thái đồng bộ gần nhất (Last Run State)](https://github.com/nhatlank23/pipeline-chatbot-0707/blob/main/data/state.json)**: File lưu trữ trạng thái băm (hash), thời gian cập nhật và tên document trên Gemini để theo dõi delta.
+Dự án triển khai một pipeline tự động cào bài viết (scraping) từ Zendesk Help Center sang Markdown, đồng bộ phần thay đổi (delta) lên Google Gemini File Search Store để phục vụ RAG Chatbot trả lời thông tin hỗ trợ kỹ thuật kèm liên kết trích dẫn nguồn. Hệ thống tự động kích hoạt chạy hàng ngày bằng GitHub Actions + Docker hoàn toàn miễn phí.
 
 ---
 
-## Tính năng chính
-1. **Zendesk Scraper**: Tải toàn bộ bài viết hướng dẫn sử dụng, làm sạch mã HTML thừa và chuyển đổi sang Markdown chuẩn kèm Front-matter metadata.
-2. **Delta Sync (Docker + GitHub Actions)**: Chạy container hóa hàng ngày (00:00 UTC) để so sánh mã băm MD5 phát hiện bài viết mới/cập nhật/đã xóa. Chỉ đẩy phần thay đổi lên Gemini và cập nhật trạng thái ngược về Git repository.
-3. **Gemini RAG Engine**: Sử dụng thư viện `google-genai` chính thức, hỗ trợ cả Cloud RAG (Gemini File Search) và Local RAG (TF-IDF offline) với khả năng tìm kiếm ngữ cảnh chính xác cao.
-4. **Interactive CLI Chat**: Giao diện chat trực tiếp với OptiBot thông qua dòng lệnh.
+## 1. Cài đặt cục bộ (Setup)
+1. **Clone mã nguồn & Tạo venv**:
+   ```bash
+   git clone <repo_url> && cd pipeline-chatbot-0707
+   python -m venv venv
+   # Windows: venv\Scripts\activate | Linux/macOS: source venv/bin/activate
+   ```
+2. **Cài đặt thư viện**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Cấu hình môi trường**: Sao chép file `.env.sample` thành `.env` và điền:
+   *   `GEMINI_API_KEY`: API Key lấy từ Google AI Studio.
+   *   `ZENDESK_BASE_URL`: Đặt địa chỉ cổng hỗ trợ (ví dụ: `https://support.optisigns.com`).
+   *   `FILE_SEARCH_STORE_NAME`: ID của Store trên Gemini (hệ thống tự tạo mới nếu để trống).
 
 ---
 
-## Cấu hình môi trường (.env)
-Tạo file `.env` tại thư mục gốc dựa theo mẫu:
-```text
-GEMINI_API_KEY=your_gemini_api_key_here
-GEMINI_MODEL=gemini-2.5-flash
-ZENDESK_BASE_URL=https://support.optisigns.com
-FILE_SEARCH_STORE_NAME=fileSearchStores/your-store-id-here
-```
+## 2. Cách chạy cục bộ (How to run locally)
+*   **Chạy Scraper riêng lẻ**: `python test_run.py`
+*   **Chạy Uploader riêng lẻ** (Đẩy toàn bộ file lên Store): `python uploader/file_search_uploader.py`
+*   **Chạy Pipeline đồng bộ đầy đủ** (So khớp delta và cập nhật trạng thái):
+    *   *Giả lập kiểm tra (Dry run)*: `python main.py --dry-run`
+    *   *Đồng bộ thực tế*: `python main.py`
+*   **Khởi động CLI Chatbot tương tác**: `python main.py --chat` hoặc `python main.py -c`
 
 ---
 
-## Hướng dẫn chạy cục bộ (Local)
-
-### 1. Cài đặt thư viện
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Chạy Pipeline đồng bộ dữ liệu (Dry Run trước)
-```bash
-# Chạy chế độ giả lập kiểm tra delta
-python main.py --dry-run
-
-# Chạy đồng bộ thực tế (yêu cầu GEMINI_API_KEY)
-python main.py
-```
-
-### 3. Trò chuyện thử nghiệm với Chatbot (CLI)
-```bash
-python cli_chat.py
-```
-*(Nếu muốn chạy thử nghiệm chế độ Local RAG offline, hãy thêm dấu `#` vào đầu dòng `FILE_SEARCH_STORE_NAME` trong file `.env`)*
+## 3. Cơ chế thiết kế & Tối ưu chi phí ($0 Cost)
+*   **Gemini File Search Tool**: Sử dụng tính năng quản lý tài liệu tích hợp của Gemini (tự động chunking và tạo embedding). Giúp tối giản hóa hệ thống, loại bỏ sự phụ thuộc vào các Vector Database bên thứ ba.
+*   **Lưu trữ State miễn phí**: File trạng thái `data/state.json` được tự động commit và đẩy ngược lại GitHub bởi Actions Bot sau mỗi phiên chạy. Nhờ đó, loại bỏ được chi phí lưu trữ Cloud (như S3/Spaces), giữ toàn bộ chi phí ở mức **$0**.
 
 ---
 
-## Kiểm thử tự động (Unit Test)
-Chạy bộ test kiểm thử scraper:
-```bash
-python -m pytest
-```
+## 4. Tự động hóa qua GitHub Actions
+*   **Chu kỳ**: Tự động chạy thông qua Docker Container lúc `00:00 UTC` hàng ngày.
+*   **Xem lịch sử chạy (Job logs)**: [Xem trực tiếp tại tab Actions trên GitHub](https://github.com/nhatlank23/pipeline-chatbot-0707/actions) hoặc xem các file log trong thư mục [logs/](https://github.com/nhatlank23/pipeline-chatbot-0707/tree/main/logs).
+
+---
+
+## 5. Minh họa câu trả lời (Citations Screenshot)
+
+[SCREENSHOT HERE]
+
+---
+
+## 6. Hạn chế & Cải tiến tương lai
+*   **Hạn chế**: Tốc độ tải lên API miễn phí bị giới hạn băng thông nên lần chạy đầu tiên (nạp 405 tài liệu) sẽ tốn khoảng 10 - 15 phút.
+*   **Cải tiến**: Tích hợp luồng upload song song (Concurrency) kết hợp kỹ thuật hàng đợi (Queue) để tối ưu hóa thời gian tải tài liệu.
