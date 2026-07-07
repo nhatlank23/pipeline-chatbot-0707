@@ -9,7 +9,6 @@ __pycache__/
 # Local state and scraped data
 data/articles/*.md
 !data/articles/.gitkeep
-data/state.json
 
 # IDE / OS files
 .vscode/
