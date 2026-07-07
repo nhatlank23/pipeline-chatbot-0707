@@ -1,0 +1,2422 @@
+{
+    "articles": {
+        "what-access-does-optisigns-have-to-my-account-and-devices": {
+            "hash": "b51b3df70d87318e880a23d4b773ac57",
+            "updated_at": "2026-07-06T15:29:04Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whataccessdoesoptisignshave-9d5i5yku014v",
+            "zendesk_id": 53216900345875
+        },
+        "using-the-japan-earthquake-app": {
+            "hash": "401c3b138d967eb0631d3560588dd050",
+            "updated_at": "2026-07-06T14:22:20Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/usingthejapanearthquakeapp-qk8tldzlz9nu",
+            "zendesk_id": 53095698149011
+        },
+        "how-to-display-a-snowflake-dashboard-with-optisigns": {
+            "hash": "11c0e87873c2ca449285d6a7b27c39be",
+            "updated_at": "2026-07-01T21:59:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplayasnowflakedashb-2mvntbfdon7n",
+            "zendesk_id": 53028011485715
+        },
+        "optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app": {
+            "hash": "174bda6f2ffd7b626295794e10e1a143",
+            "updated_at": "2026-06-11T22:24:43Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optisignsdigitalsignageappf-27xf9j7p4kma",
+            "zendesk_id": 52523606879251
+        },
+        "connect-google-meet-hardware-to-optisigns-digital-signage": {
+            "hash": "45f68953778a58859b5166cf53d514d8",
+            "updated_at": "2026-06-15T19:14:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/connectgooglemeethardwareto-yyd69shsaf5j",
+            "zendesk_id": 52412502456083
+        },
+        "connect-microsoft-teams-rooms-to-optisigns-digital-signage": {
+            "hash": "2f4f8b9942745ff7d9c58d34b1d2976f",
+            "updated_at": "2026-06-24T18:39:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/connectmicrosoftteamsroomst-ggyr228aveme",
+            "zendesk_id": 52350277262483
+        },
+        "room-integrations-turn-your-meeting-rooms-into-digital-signage": {
+            "hash": "dcf6886efb3bd07c897a9dcaad232a39",
+            "updated_at": "2026-06-15T19:14:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/roomintegrationsturnyourmee-15zyee4su5ih",
+            "zendesk_id": 52113036672403
+        },
+        "connect-zoom-rooms-to-optisigns-digital-signage": {
+            "hash": "edafe1b19d49a4fa2ab93d7cb9c00840",
+            "updated_at": "2026-06-11T22:22:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/connectzoomroomstooptisigns-0msbormx3nk9",
+            "zendesk_id": 52069065128723
+        },
+        "connect-cisco-webex-rooms-to-optisigns-digital-signage": {
+            "hash": "447d39f75063bcd2dc9ca97f062d1084",
+            "updated_at": "2026-07-01T16:55:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/connectciscowebexroomstoopt-n0zs0zjr09oj",
+            "zendesk_id": 51343184586643
+        },
+        "chromeos-pwa-instructions": {
+            "hash": "a2212e245c643d6b5e61436b885d23ce",
+            "updated_at": "2026-05-05T15:48:27Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/chromeospwainstructions-789h2fl2qfa0",
+            "zendesk_id": 49039295567891
+        },
+        "how-to-use-the-google-ads-dashboard-app": {
+            "hash": "2c4f31e0b6bbd94c40190cb5cc28568b",
+            "updated_at": "2026-02-02T17:54:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethegoogleadsdashboa-v8quu2yg3la1",
+            "zendesk_id": 48751096814995
+        },
+        "how-to-use-the-google-search-console-app": {
+            "hash": "ee8fe2dad91ad096e536fedeb70d5bed",
+            "updated_at": "2026-02-02T17:56:42Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethegooglesearchcons-bgthlf6h2akr",
+            "zendesk_id": 48656950622227
+        },
+        "how-to-use-the-youtube-dashboard-app": {
+            "hash": "df54b2dab2dc2020858f0270aae43e4e",
+            "updated_at": "2026-02-02T15:32:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheyoutubedashboard-fn65cr3wgifb",
+            "zendesk_id": 48626115821459
+        },
+        "operational-schedule-troubleshooting": {
+            "hash": "7347da9429b1494cd1c4a751c830f02a",
+            "updated_at": "2026-04-20T21:26:17Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/operationalscheduletroubles-y4yj93zshg8g",
+            "zendesk_id": 48241081473043
+        },
+        "how-to-use-the-optidev-app": {
+            "hash": "0f267ce19c87be6fb4196ddebc3db48f",
+            "updated_at": "2026-02-11T23:03:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheoptidevapp-ior1ysbhkt59",
+            "zendesk_id": 47616485609491
+        },
+        "how-to-set-up-an-outlook-calendar-app-with-shared-permissions": {
+            "hash": "7625e6d6962ebd545e4eca61b1910612",
+            "updated_at": "2025-10-17T16:01:18Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupanoutlookcalendar-rpv41wfeqbfc",
+            "zendesk_id": 45619214182803
+        },
+        "using-an-enterprise-network-8021x-with-optisigns": {
+            "hash": "3646e3fb21ea005f5ca90997227dcd05",
+            "updated_at": "2026-05-20T18:11:11Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/usinganenterprisenetwork802-au6ogjo8ru1w",
+            "zendesk_id": 44890229616403
+        },
+        "user-management-example-chain-restaurant-or-retail-store-with-multiple-locations": {
+            "hash": "be821f90b5a8ec0fa415d1bd93fea5a1",
+            "updated_at": "2025-08-28T19:28:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/usermanagementexamplechainr-d9a3dkbh2uwg",
+            "zendesk_id": 43657735780627
+        },
+        "getting-started-with-designer": {
+            "hash": "ef33f828b60a3fe0a8ef37f5addf69f5",
+            "updated_at": "2025-10-07T17:18:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/gettingstartedwithdesigner-w0arlh5n7mwx",
+            "zendesk_id": 42087942047379
+        },
+        "designer-20-new-features": {
+            "hash": "2107141005ddd4b6b1607cd1572a47d4",
+            "updated_at": "2026-05-12T14:17:09Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/designer20newfeatures-rrem1wym8a3a",
+            "zendesk_id": 41432385864595
+        },
+        "optisigns-propromax-player-troubleshooting-guide": {
+            "hash": "60e9ea708e1e8b695108acf9bb451e63",
+            "updated_at": "2026-01-13T21:20:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optisignspropromaxplayertro-7w0dbx2bku67",
+            "zendesk_id": 40736654972563
+        },
+        "how-to-play-licensed-background-music-on-digital-signs-with-optisound": {
+            "hash": "24d4480a22a404b79dc2161207a990da",
+            "updated_at": "2026-04-08T22:33:37Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoplaylicensedbackground-2w6upg4mvnze",
+            "zendesk_id": 40671590645651
+        },
+        "disk-encryption": {
+            "hash": "a309b293e972009e6f7c14faf03ca549",
+            "updated_at": "2025-09-04T16:19:23Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/diskencryption-tszhr3r935zf",
+            "zendesk_id": 40212027797523
+        },
+        "optistick-troubleshooting-guide": {
+            "hash": "3805d0b9d6670dc6b14dc12b6e35210d",
+            "updated_at": "2026-06-26T13:52:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optisticktroubleshootinggui-b4c85h6buum1",
+            "zendesk_id": 40147900639891
+        },
+        "fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick": {
+            "hash": "be30987efd72e42abd730539f97807be",
+            "updated_at": "2025-09-04T15:25:54Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/fixingunexpectedscreenrotat-xhqsa6khyf4w",
+            "zendesk_id": 39488874989587
+        },
+        "how-to-use-the-tableau-app": {
+            "hash": "f712e00fe24ba2dbca5aba7b8add9c64",
+            "updated_at": "2026-01-06T22:36:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethetableauapp-7bnbpkv1jhi3",
+            "zendesk_id": 39250660729747
+        },
+        "handle-oauth-authentication-using-api-gateway-pre-request-configuration": {
+            "hash": "d72f12c46a6b9d06d7ce274f0c2698b1",
+            "updated_at": "2025-08-28T18:42:06Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/handleoauthauthenticationus-1tm54yfyjmp4",
+            "zendesk_id": 39080869746067
+        },
+        "tagging-in-optisigns": {
+            "hash": "cac1b3e5baa24aee5808ef430649d1cc",
+            "updated_at": "2025-09-09T19:34:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/tagginginoptisigns-hvu84xfe7udd",
+            "zendesk_id": 38062664690195
+        },
+        "getting-started-with-an-optisigns-free-trial": {
+            "hash": "5cd9ea9a0c97ea1468e320ed7acad8d2",
+            "updated_at": "2025-09-04T18:44:24Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/gettingstartedwithanoptisig-19dlpc56rfhl",
+            "zendesk_id": 37966066335891
+        },
+        "how-to-use-optisigns-with-microsoft-teams-rooms": {
+            "hash": "f07491bbf09dc7ef9f94f98ebb1d0eb5",
+            "updated_at": "2025-09-04T18:42:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseoptisignswithmicros-n6h4vn8sa35b",
+            "zendesk_id": 36911639377683
+        },
+        "how-to-access-the-troubleshooting-page-of-the-optisigns-player": {
+            "hash": "5012a10147bdf72ba11bb695cf173f70",
+            "updated_at": "2025-09-02T20:08:24Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoaccessthetroubleshooti-fkoqre0254jp",
+            "zendesk_id": 36501302096915
+        },
+        "how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments": {
+            "hash": "6a8026b326da9db85801a222dd7c4fc5",
+            "updated_at": "2025-08-29T16:58:30Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousingsepaandidealforeu-qrg5ov7tvxv4",
+            "zendesk_id": 35749502945555
+        },
+        "how-to-install-a-root-certificate-and-display-an-internal-website-on-screens": {
+            "hash": "3eb8f2ebb9d4838e427d18e0ac0130a9",
+            "updated_at": "2025-09-04T16:54:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstallarootcertificat-x3g4s7vnhzed",
+            "zendesk_id": 35184720136595
+        },
+        "accepted-payment-methods": {
+            "hash": "f0c71a10d7bf412aeb2d948529b38280",
+            "updated_at": "2025-09-04T15:39:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/acceptedpaymentmethods-xvd8yqtglrbc",
+            "zendesk_id": 34379983350163
+        },
+        "what-do-i-get-with-an-optisigns-free-plan": {
+            "hash": "199589adea39100d34bae647a6508c33",
+            "updated_at": "2026-03-27T20:38:29Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whatdoigetwithanoptisignsfr-i492khxy3090",
+            "zendesk_id": 33940834613139
+        },
+        "making-a-video-wall-with-optisigns-video-wall-app": {
+            "hash": "1ef0cb94b5b28c047d3d41e35d39f0a5",
+            "updated_at": "2025-12-11T15:16:23Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/makingavideowallwithoptisig-hjep683p15sm",
+            "zendesk_id": 33382537925267
+        },
+        "how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns": {
+            "hash": "b87ddaa4d13bf5237d9776e1a49dc26a",
+            "updated_at": "2026-03-17T22:32:17Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupapowerbiservicepr-yh3txvm69o61",
+            "zendesk_id": 32860569148819
+        },
+        "display-salesforce-dashboards-with-mfa-using-web-scripting": {
+            "hash": "53be455c497f9c8328dc64401fb35b89",
+            "updated_at": "2025-09-02T20:45:08Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/displaysalesforcedashboards-afu5nxgw6c53",
+            "zendesk_id": 32839794222099
+        },
+        "how-to-order-a-preconfigured-optisigns-android-player-device": {
+            "hash": "949b022ea2025d04d8a5dc88562f8e80",
+            "updated_at": "2026-06-11T17:48:29Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoorderapreconfiguredopt-ocx2yrmkr5iw",
+            "zendesk_id": 31960461758611
+        },
+        "integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync": {
+            "hash": "ba39cabed010ed02a08793e0c25759ce",
+            "updated_at": "2025-09-04T20:31:25Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/integratingpointofsalepossy-2q321b49hj66",
+            "zendesk_id": 31860170199955
+        },
+        "configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices": {
+            "hash": "07cfa393577b39b1e6c010c60b522a2c",
+            "updated_at": "2025-08-29T17:04:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/configuringmassdeploymentwi-n0hie425es46",
+            "zendesk_id": 31695220475283
+        },
+        "getting-started-with-touch-screen-kiosks": {
+            "hash": "0e479a00ff869d31ab16ce92cfecf9aa",
+            "updated_at": "2025-10-29T18:57:43Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/gettingstartedwithtouchscre-c026k9sl97ik",
+            "zendesk_id": 31449657955347
+        },
+        "how-to-use-toast-api-data-with-optisigns": {
+            "hash": "83ad9a3e5b2f08b7aa279c32ab85cb55",
+            "updated_at": "2025-09-02T20:24:12Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetoastapidatawithopt-r8rd5e05t4kp",
+            "zendesk_id": 31113088917907
+        },
+        "enabling-lock-down-mode-on-touch-screen-devices": {
+            "hash": "5bae27167eb95f0d8e4eb3dcb0070b4c",
+            "updated_at": "2026-04-21T19:22:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/enablinglockdownmodeontouch-hqhgt0b3eg5l",
+            "zendesk_id": 30310366838803
+        },
+        "how-to-use-the-mobile-app-for-remote-control": {
+            "hash": "ad0b48a5f514052f7a60500b9cc7eddf",
+            "updated_at": "2025-09-04T20:14:54Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethemobileappforremo-nunmfrcwcybz",
+            "zendesk_id": 30304278652563
+        },
+        "guide-for-creating-content-with-optisigns": {
+            "hash": "43565f7d882cf3a1c4b8e030eb685f60",
+            "updated_at": "2026-05-21T17:52:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/guideforcreatingcontentwith-61464tb72bec",
+            "zendesk_id": 29792081890323
+        },
+        "list-of-supported-cities-for-weather-wall-city-themes": {
+            "hash": "47f0d65ef5fd4c3aef5a566771fd1a42",
+            "updated_at": "2026-04-08T13:41:37Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/listofsupportedcitiesforwea-g8uj46bdw865",
+            "zendesk_id": 29465595849235
+        },
+        "how-to-clear-cache-on-a-brightsign-player": {
+            "hash": "6b27f90397161c52069f91b428251812",
+            "updated_at": "2025-08-28T19:03:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoclearcacheonabrightsig-swd61pdqpvg6",
+            "zendesk_id": 29238381023123
+        },
+        "how-to-create-an-attract-screen-for-your-kiosk": {
+            "hash": "77df7e78840c06975e7fdc7da1a52f0a",
+            "updated_at": "2025-09-04T14:01:30Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateanattractscreenf-8e0g123i8txx",
+            "zendesk_id": 29232460955539
+        },
+        "how-to-set-up-dynamic-data-mapping-with-optisync": {
+            "hash": "fcb7f8f71820af9b7d988a7a59b648fe",
+            "updated_at": "2025-09-04T17:54:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupdynamicdatamappin-n8eisydt6ld2",
+            "zendesk_id": 29217646663187
+        },
+        "how-to-create-and-use-operational-schedules-hdmi-cec-rs-232": {
+            "hash": "828f9ca016a30c39cb7a246d364933e0",
+            "updated_at": "2026-06-02T22:08:42Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateanduseoperationa-0ym5ma78tavg",
+            "zendesk_id": 28598173096723
+        },
+        "performancestability-issues-on-android-devices-and-best-practices": {
+            "hash": "df11d100ccc07d20a8355d5f631d2c82",
+            "updated_at": "2025-09-04T16:21:18Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/performancestabilityissueso-a4r8olrb88l0",
+            "zendesk_id": 28427819992979
+        },
+        "samsung-tizen-tvs-troubleshooting-guide": {
+            "hash": "41df610e6f41d8c6b129be611078f656",
+            "updated_at": "2026-01-12T16:10:54Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/samsungtizentvstroubleshoot-to0ex1keiokc",
+            "zendesk_id": 28424138317971
+        },
+        "roku-troubleshooting-guide": {
+            "hash": "a451d916cb98a9074236cf743733f525",
+            "updated_at": "2025-09-02T20:10:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/rokutroubleshootingguide-6iye0n397g91",
+            "zendesk_id": 28421615261971
+        },
+        "how-to-create-use-playlists": {
+            "hash": "0c61a465ed599c9c830f2bcef02c0411",
+            "updated_at": "2026-03-31T21:42:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateuseplaylists-umfnxibygmjr",
+            "zendesk_id": 28295104605843
+        },
+        "how-to-use-qr-overlay-app-in-engage": {
+            "hash": "936bbd9f6da056fe321232bab74f6226",
+            "updated_at": "2025-08-29T20:47:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseqroverlayappinengag-gjeacruk6c48",
+            "zendesk_id": 28140190892307
+        },
+        "how-to-change-close-nav-bar-styler-preferences": {
+            "hash": "e7cf8582438374eff405334a148968bf",
+            "updated_at": "2025-08-28T19:27:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtochangeclosenavbarstyle-bfk8stm5b50e",
+            "zendesk_id": 28115946505107
+        },
+        "ai-camera-app-quick-start": {
+            "hash": "63a820af5a764685d897d3b7a0d075d1",
+            "updated_at": "2026-06-29T19:26:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/aicameraappquickstart-yirlp5eztpq5",
+            "zendesk_id": 27690296225555
+        },
+        "amazon-tv-firestick-troubleshooting-guide": {
+            "hash": "a2fa73e2f897d1e9efe5c5957f36121c",
+            "updated_at": "2026-04-28T15:36:27Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/amazontvfiresticktroublesho-gwjtt0zuv5zl",
+            "zendesk_id": 27463953562899
+        },
+        "move-screens-or-devices-from-one-account-to-another": {
+            "hash": "f6826c8f25af2be803cb0c07800f9e95",
+            "updated_at": "2025-08-29T17:03:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/movescreensordevicesfromone-gr687na3evmx",
+            "zendesk_id": 27458261258387
+        },
+        "how-to-use-icloud-calendar-with-optisigns": {
+            "hash": "8e08abe796e9d7c4cec18455aa349e9a",
+            "updated_at": "2026-03-26T16:45:12Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseicloudcalendarwitho-i35fe7ry9321",
+            "zendesk_id": 27356288211859
+        },
+        "optistick": {
+            "hash": "925dbcc65230a4657689f4cb87fd4ebf",
+            "updated_at": "2026-06-26T13:51:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optistick-lm887xz8weat",
+            "zendesk_id": 27267311796243
+        },
+        "how-to-lockdown-ipadsingle-app-with-guided-accessibility": {
+            "hash": "a11f91576cf3ade0a1158e9f644b7718",
+            "updated_at": "2026-02-10T16:54:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtolockdownipadsingleappw-z81n3djtudw0",
+            "zendesk_id": 25273043501587
+        },
+        "how-to-add-a-qr-code-in-designs-using-optisigns-designer": {
+            "hash": "da70fdb7bdcc7c3e9629920ad530f676",
+            "updated_at": "2025-09-04T15:43:33Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoaddaqrcodeindesignsusi-ugch94etm69b",
+            "zendesk_id": 25127398699667
+        },
+        "what-are-feeds-and-how-to-use-it": {
+            "hash": "e39676cc1b08944455bfa0d8a8502aac",
+            "updated_at": "2025-08-28T18:46:57Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whatarefeedsandhowtouseit-wmsbwfu59vbu",
+            "zendesk_id": 24338756617747
+        },
+        "how-to-get-google-review-link": {
+            "hash": "1de94017cbbb0bce5329cd55378842b4",
+            "updated_at": "2025-09-04T16:54:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtogetgooglereviewlink-hncax9vcvxb1",
+            "zendesk_id": 23629657318547
+        },
+        "how-to-use-check-in-app-with-sms-follow-up": {
+            "hash": "d46fa4a6229baca3802780147d4fb30d",
+            "updated_at": "2025-09-04T15:04:03Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousecheckinappwithsmsfo-tuayddjgj67j",
+            "zendesk_id": 23566927217939
+        },
+        "engage-plan-faqs": {
+            "hash": "a93a11e626900a70b90b6d1e0b91f647",
+            "updated_at": "2026-06-29T19:25:18Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/engageplanfaqs-7sry7h8fk235",
+            "zendesk_id": 23565267463315
+        },
+        "how-to-enable-auto-start-on-fireos-8-devices-like-amazon-fire-tv-stick-4k-gen-2-2023-model": {
+            "hash": "012da004e987d9a740ab1b8837964cf3",
+            "updated_at": "2025-09-04T16:18:04Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoenableautostartonfireo-beecbr341v8q",
+            "zendesk_id": 23274673797139
+        },
+        "how-to-setup-aericast-meet-wireless-video-conferencing": {
+            "hash": "932bd88f08464de419505e143c06f46c",
+            "updated_at": "2025-08-29T16:59:17Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupaericastmeetwirel-b8ew1nn03uce",
+            "zendesk_id": 23030445716883
+        },
+        "how-to-integrate-api-and-publish-api-data-via-optisync": {
+            "hash": "54fdf5eb5f5c0d4f7a08b147d20813eb",
+            "updated_at": "2025-09-04T21:00:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtointegrateapiandpublish-gugouwtr80km",
+            "zendesk_id": 22875592994195
+        },
+        "advanced-playlist-item-playback-control-campaign-management": {
+            "hash": "530232b10ca9a126ae60950149623fb9",
+            "updated_at": "2025-10-10T15:42:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedplaylistitemplaybac-cgfsdven742j",
+            "zendesk_id": 22474034993043
+        },
+        "how-to-share-playlist-and-folder-with-external-users": {
+            "hash": "113bbb14c195de43f517f4ebcaca108a",
+            "updated_at": "2026-06-26T13:56:08Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoshareplaylistandfolder-8vqlnabc7aqm",
+            "zendesk_id": 21708242980755
+        },
+        "how-to-use-content-tags-in-the-playlist": {
+            "hash": "79089fe1eedaa206b6eb5b050c0ce84b",
+            "updated_at": "2025-09-04T19:48:57Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousecontenttagsinthepla-60jmozbqqzkw",
+            "zendesk_id": 20879903340947
+        },
+        "your-facebook-page-doesnt-show-in-the-dropdown-list": {
+            "hash": "7a4a47284d7cf4d7ef85c0da26a36fe7",
+            "updated_at": "2026-04-30T20:24:48Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/yourfacebookpagedoesntshowi-6ehcedxg87yl",
+            "zendesk_id": 20750060900883
+        },
+        "how-to-use-coordinate-based-positioning-and-sizing-of-elements-in-optisigns-designer": {
+            "hash": "2f3c2f1dd0fc440b47ece50631d781f0",
+            "updated_at": "2025-08-28T20:10:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousecoordinatebasedposi-ksg15gw0dxje",
+            "zendesk_id": 20428606424723
+        },
+        "navigating-through-optisigns-template-library": {
+            "hash": "f5eace66beed4163c3193b471477919f",
+            "updated_at": "2025-09-04T14:39:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/navigatingthroughoptisignst-rzj1hn63ik7s",
+            "zendesk_id": 20425113117459
+        },
+        "external-storage-on-optisigns-devices": {
+            "hash": "a177706adfbb6d218174d4ee3107f34e",
+            "updated_at": "2026-06-05T16:36:27Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/externalstorageonoptisignsd-maz9k4u9sdqd",
+            "zendesk_id": 20153471319187
+        },
+        "how-to-control-and-schedule-playlist-items": {
+            "hash": "627e39b7c3c14482c533a3d2f253db02",
+            "updated_at": "2025-09-04T17:26:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocontrolandscheduleplay-5ucprknfr7qw",
+            "zendesk_id": 20062273670163
+        },
+        "how-to-use-secured-dashboard-app": {
+            "hash": "00e6def859072b96097fe0a77469a500",
+            "updated_at": "2025-09-02T20:28:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousesecureddashboardapp-w11e6eh0dcfo",
+            "zendesk_id": 19589190970771
+        },
+        "how-to-use-yammer-app-on-optisigns": {
+            "hash": "f945c64180f828b08128e3b3646c6324",
+            "updated_at": "2025-09-04T18:49:13Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseyammerapponoptisign-f2f3ne7l29wq",
+            "zendesk_id": 19171222981523
+        },
+        "push-contents-to-your-screens": {
+            "hash": "78cf280589feb41c39313e3ff08659ab",
+            "updated_at": "2025-09-04T20:22:58Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/pushcontentstoyourscreens-d0gsbhleay73",
+            "zendesk_id": 18988049363859
+        },
+        "optisigns-getting-started-guide": {
+            "hash": "f29c5372ff81792444d1d8c9dfc7a1bf",
+            "updated_at": "2026-03-31T21:41:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optisignsgettingstartedguid-04tacbnzr3zc",
+            "zendesk_id": 18823504383891
+        },
+        "how-to-keep-optisigns-running-on-fire-stick": {
+            "hash": "22b66a76332f2088558b2e98516fe588",
+            "updated_at": "2025-09-04T15:31:51Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtokeepoptisignsrunningon-u0ebc5zu16v4",
+            "zendesk_id": 18470994953363
+        },
+        "how-to-customize-the-thumbnail-of-files-assets-and-folders": {
+            "hash": "527696f6a179d44199e0574c591c16ce",
+            "updated_at": "2025-09-04T18:20:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocustomizethethumbnailo-k8a3ogkagau4",
+            "zendesk_id": 18399492388371
+        },
+        "how-to-configure-multi-factor-authentication-with-your-optisigns-account": {
+            "hash": "666a5e18d7e5f9367efd2153bc367e05",
+            "updated_at": "2025-09-04T16:20:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoconfiguremultifactorau-a4t471dc3kp8",
+            "zendesk_id": 18381542133779
+        },
+        "samsung-smart-signage-platform-sssp-supported-model-list": {
+            "hash": "b88b5520ed60c1b2432759c020eb65c2",
+            "updated_at": "2025-09-04T14:36:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/samsungsmartsignageplatform-djg0jk6omaft",
+            "zendesk_id": 17882306279315
+        },
+        "how-to-create-a-content-library-kiosk": {
+            "hash": "55a13e5acc3fc3946e177cb4f160462f",
+            "updated_at": "2025-08-29T19:38:25Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateacontentlibraryk-3t3rbpb78vez",
+            "zendesk_id": 17604055961747
+        },
+        "event-logging-and-analytics-for-external-communicationrs-232": {
+            "hash": "c38a65f5dfb6062b174ae62b959af903",
+            "updated_at": "2025-09-02T19:09:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/eventloggingandanalyticsfor-abofkf4rgmal",
+            "zendesk_id": 17342932920211
+        },
+        "display-powerpointgoogle-slides-in-whole-screen-when-casting-from-macbook-pro": {
+            "hash": "fb218fabb5943c8ce738e01e235651c8",
+            "updated_at": "2025-08-29T18:58:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/displaypowerpointgoogleslid-2eo6fmiu64kf",
+            "zendesk_id": 17112492659475
+        },
+        "how-to-use-streaming-app-with-optisigns": {
+            "hash": "80d72f91074eb04119618ea58df5c751",
+            "updated_at": "2025-09-02T18:34:54Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousestreamingappwithopt-co6nzv2o0aee",
+            "zendesk_id": 16364134190355
+        },
+        "silent-installation-process-for-optisigns-player-on-windows": {
+            "hash": "9c2efcf98d714a186e396c1c0e968af0",
+            "updated_at": "2025-08-29T18:51:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/silentinstallationprocessfo-171jyl9o4eyw",
+            "zendesk_id": 15861880059283
+        },
+        "the-optisigns-app-keeps-turning-on-the-tv-screen": {
+            "hash": "b9399354f60da6d458b2b1fd2a900628",
+            "updated_at": "2025-09-04T15:11:52Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/theoptisignsappkeepsturning-ki1c5akdej1k",
+            "zendesk_id": 15808407287315
+        },
+        "how-to-design-kiosk-apps-using-kiosk-designer-pro": {
+            "hash": "39586042eb272a2cf211b22bb822da33",
+            "updated_at": "2025-11-05T17:31:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodesignkioskappsusingki-h4l2w8x2pj0m",
+            "zendesk_id": 15313086319763
+        },
+        "cannot-find-the-optisigns-app-on-your-samsung-smart-tv": {
+            "hash": "e3a28569e0e445c66f382296f94e19f8",
+            "updated_at": "2026-06-11T17:13:11Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/cannotfindtheoptisignsappon-szhee0gsez6h",
+            "zendesk_id": 15268811715347
+        },
+        "build-integration-using-optisigns-enterprise-app": {
+            "hash": "4ac7ab25feee8480d39626a4c3d74161",
+            "updated_at": "2025-08-28T20:24:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/buildintegrationusingoptisi-lymlbak311dx",
+            "zendesk_id": 13320135306515
+        },
+        "optisigns-iot-sensor-add-on-quick-start": {
+            "hash": "81f79dafca05c28d4b38658d2e4cd312",
+            "updated_at": "2025-09-02T18:16:29Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optisignsiotsensoraddonquic-5r1fxg4i5igc",
+            "zendesk_id": 13097501958291
+        },
+        "showhide-downloading-status-on-your-player": {
+            "hash": "f502871bb8477948aff2d151d1045153",
+            "updated_at": "2025-09-04T15:32:11Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/showhidedownloadingstatuson-vmpi6dk57q50",
+            "zendesk_id": 12947300131731
+        },
+        "what-if-the-optisigns-app-does-not-auto-start-on-an-android-tv": {
+            "hash": "fc9f880eb6d87241879ad85fb452d291",
+            "updated_at": "2025-11-19T11:39:39Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whatiftheoptisignsappdoesno-exmhm9y118b1",
+            "zendesk_id": 11412877112595
+        },
+        "how-to-put-live-tv-on-your-screens-with-optisigns": {
+            "hash": "a1d72012b22beb5dc97b49147541fa30",
+            "updated_at": "2025-09-02T20:01:30Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoputlivetvonyourscreens-k19pc511iqlz",
+            "zendesk_id": 10159088954387
+        },
+        "data-residency-and-optisigns": {
+            "hash": "7b5d10adf2c71d166cc8136226b7b41e",
+            "updated_at": "2026-06-05T14:25:01Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/dataresidencyandoptisigns-t6pj9ap3bmcu",
+            "zendesk_id": 9169378546195
+        },
+        "using-rs-232-to-schedule-tv-power-onoff-or-other-commands": {
+            "hash": "cf22e46ef3b7841e4ddafd071e356858",
+            "updated_at": "2025-09-19T18:38:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/usingrs232toscheduletvpower-9i9mlpfw4ul1",
+            "zendesk_id": 9061950942995
+        },
+        "how-to-get-the-mac-address-on-your-media-player": {
+            "hash": "89f1149d1d02eed06811db6352583b91",
+            "updated_at": "2025-08-29T20:29:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtogetthemacaddressonyour-9fri8tvlfncx",
+            "zendesk_id": 8099928867475
+        },
+        "how-to-hide-certain-templates-categories-in-designers": {
+            "hash": "35b13f71d4c35901a0ce2a37606ecce6",
+            "updated_at": "2025-09-05T15:04:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtohidecertaintemplatesca-t3at2ly6ra1t",
+            "zendesk_id": 7865572050195
+        },
+        "host-your-htmljs-or-create-your-own-web-app-with-hosted-website": {
+            "hash": "588137ddc8047b79b1e400b799e1f349",
+            "updated_at": "2025-08-29T20:55:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/hostyourhtmljsorcreateyouro-i7g4rafq77kg",
+            "zendesk_id": 7592123111699
+        },
+        "using-eyedrop-feature-to-select-color-in-designer-app": {
+            "hash": "b22985334c0936c8b68a84b4240f5e6c",
+            "updated_at": "2025-08-28T20:14:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/usingeyedropfeaturetoselect-ae52r6bxyk5p",
+            "zendesk_id": 7589195635219
+        },
+        "apple-tv-player-release-notes-limitations": {
+            "hash": "3d6b13b23f467c4edc31b321e543f7e9",
+            "updated_at": "2025-12-31T22:07:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/appletvplayerreleasenotesli-pycof4vadbdz",
+            "zendesk_id": 6605515731603
+        },
+        "how-to-organize-templates-and-share-across-teams": {
+            "hash": "10d7cbe578fc8b2ba5c7182d265a6d76",
+            "updated_at": "2025-08-28T19:56:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoorganizetemplatesandsh-xsibzg5h8nqp",
+            "zendesk_id": 4428997257491
+        },
+        "manually-control-playlist-playback-with-optisigns": {
+            "hash": "338371d214de4edde2e1d39873651d5d",
+            "updated_at": "2025-08-29T18:48:01Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/manuallycontrolplaylistplay-x4k30o47fpcb",
+            "zendesk_id": 4416704273811
+        },
+        "how-to-perform-mass-provisioning-with-optisigns": {
+            "hash": "28c9bafdbfd234fc0bd5025c726abbca",
+            "updated_at": "2026-04-16T14:17:14Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoperformmassprovisionin-b0lqllv79qc0",
+            "zendesk_id": 4416542923667
+        },
+        "introduction": {
+            "hash": "ff406b95ec2f3ab67e433c05581fa950",
+            "updated_at": "2025-09-02T20:25:47Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/introduction-j0tmj1laodzv",
+            "zendesk_id": 4414552808467
+        },
+        "synchronized-playback-sync-play-feature": {
+            "hash": "1de8025b9972e5331bc2d917d626f220",
+            "updated_at": "2026-07-06T21:29:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/synchronizedplaybacksyncpla-igh0om3kjw59",
+            "zendesk_id": 4412065189267
+        },
+        "clean-install-optisigns-on-raspberry-pilinux": {
+            "hash": "aa77ea009a5c3bdb8b964cc6e229f1bc",
+            "updated_at": "2025-08-28T20:09:01Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/cleaninstalloptisignsonrasp-t2d4t40zgq27",
+            "zendesk_id": 4411956075027
+        },
+        "how-to-connect-to-8021x-enterprise-wifi-on-raspberry-pi": {
+            "hash": "ac84f6c6a181b3598b748a1279933fc5",
+            "updated_at": "2025-09-04T15:24:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoconnectto8021xenterpri-pidi91fk3bo5",
+            "zendesk_id": 4411743936147
+        },
+        "how-to-integrate-bonusly-digital-signage-with-optisigns": {
+            "hash": "e6a2b269a2296e077f0d9dc9514fcad1",
+            "updated_at": "2025-08-29T21:49:14Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtointegratebonuslydigita-lu8siewoo42z",
+            "zendesk_id": 4408946045715
+        },
+        "how-to-use-remote-command-execution-windowslinux": {
+            "hash": "29b3739258a6f0291f2c4266e519653e",
+            "updated_at": "2025-09-05T14:59:20Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseremotecommandexecut-tr58t52jjs5k",
+            "zendesk_id": 4408658251027
+        },
+        "how-to-use-weather-apps-based-on-device-location": {
+            "hash": "c8152869b03a6023dd24a0face84e918",
+            "updated_at": "2025-09-04T14:07:59Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseweatherappsbasedond-01tfr4u6ehqi",
+            "zendesk_id": 4408052029587
+        },
+        "how-to-set-up-saml-20-with-optisigns-and-google-workspace": {
+            "hash": "cb2b0b6e434a548562032c3b953a8b89",
+            "updated_at": "2025-09-04T15:06:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupsaml20withoptisig-v21b018dqxu5",
+            "zendesk_id": 4407493404307
+        },
+        "how-to-set-up-saml-20-with-optisigns-and-oneloginshibboleth": {
+            "hash": "ea0c2fb0ef1be2fa988446f19e6eade3",
+            "updated_at": "2025-09-02T20:38:51Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupsaml20withoptisig-1230eg8i4qiv",
+            "zendesk_id": 4407476403859
+        },
+        "how-to-set-up-saml-20-with-optisigns-and-onelogin": {
+            "hash": "bf172f58417419c5150d287df7d7a066",
+            "updated_at": "2025-09-04T13:48:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupsaml20withoptisig-dqe4g4cod5zc",
+            "zendesk_id": 4407386819731
+        },
+        "how-to-set-up-saml-20-with-optisigns-and-ms-entra-id-formerly-azure-ad": {
+            "hash": "e411bcd99e45f753820273814e793d9a",
+            "updated_at": "2026-02-05T20:23:47Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupsaml20withoptisig-21vgwgvwtxo8",
+            "zendesk_id": 4407252213395
+        },
+        "saml-integration-strategies-best-practices": {
+            "hash": "4ec91b37f0f93c58c28ba6fa7bff299d",
+            "updated_at": "2026-02-05T20:22:33Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/samlintegrationstrategiesbe-ri76duoldfci",
+            "zendesk_id": 4407128433299
+        },
+        "map-view-screen-location-settings": {
+            "hash": "fe3e318813091f0f31710a13fe5f4836",
+            "updated_at": "2025-08-28T19:29:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/mapviewscreenlocationsettin-c64iervv5jd3",
+            "zendesk_id": 4407068788883
+        },
+        "how-to-unpin-optisigns-app-on-your-managed-android-stick-player": {
+            "hash": "ba4c7ebd6fa41f3b631a91ead0304b01",
+            "updated_at": "2025-08-29T18:52:14Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtounpinoptisignsapponyou-88i7kz6f8z8k",
+            "zendesk_id": 4404827608467
+        },
+        "add-1-or-multiple-assets-to-many-playlists-at-the-same-time": {
+            "hash": "374cd1724149052e1bf3df71dd8cad4c",
+            "updated_at": "2025-08-28T20:13:04Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/add1ormultipleassetstomanyp-gpnvxfu8rn8j",
+            "zendesk_id": 4404616139411
+        },
+        "how-to-set-up-saml-20-with-optisigns-and-okta": {
+            "hash": "35d4167d2b69b1c35864a64b30af00a9",
+            "updated_at": "2026-06-08T15:02:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupsaml20withoptisig-dilgj36tx0c8",
+            "zendesk_id": 4404590815635
+        },
+        "how-to-use-optisigns-template-designer-to-make-your-digital-signs-in-minutes": {
+            "hash": "ffdcf4c91dab2dfc757a30a1875c888f",
+            "updated_at": "2026-06-20T07:00:26Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseoptisignstemplatede-uo2f3dlhnemd",
+            "zendesk_id": 4404151402899
+        },
+        "how-to-approve-optisigns-as-enterprise-app-on-microsoft-azure-for-power-bi-calendar-etc-access": {
+            "hash": "3fd666175bdaec24dd3a19436d5855c9",
+            "updated_at": "2026-03-17T22:33:37Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoapproveoptisignsasente-p4tuisjp834o",
+            "zendesk_id": 4403616315539
+        },
+        "how-to-set-up-audit-log-for-your-account": {
+            "hash": "d9a1a1d3177fa8eab206fa84c513217a",
+            "updated_at": "2026-03-18T22:16:52Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupauditlogforyourac-cuxumzt7ndk6",
+            "zendesk_id": 4403332894867
+        },
+        "how-to-set-up-monitoring-alert-feature": {
+            "hash": "7bd21a36117cde2ebd752e8eebd74fdd",
+            "updated_at": "2025-09-04T18:20:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupmonitoringalertfe-hc56wi25vfzz",
+            "zendesk_id": 4403306341523
+        },
+        "how-to-use-the-web-scripting-app": {
+            "hash": "1f8eb9af56d62d17ed6dee57eed6f5dc",
+            "updated_at": "2026-05-14T16:05:37Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethewebscriptingapp-742o9gxqzksd",
+            "zendesk_id": 1500012522362
+        },
+        "adjust-the-gpu-memory-on-the-raspberry-pi": {
+            "hash": "cf006a4d8c7a4ef020d776f76ed77387",
+            "updated_at": "2025-08-29T20:24:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/adjustthegpumemoryontherasp-n463kyrgbrvc",
+            "zendesk_id": 1500010436341
+        },
+        "resolve-autostart-issues-on-your-android-tv-devices": {
+            "hash": "791f688922ee252441da168a0b63e9c8",
+            "updated_at": "2025-08-29T18:50:41Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/resolveautostartissuesonyou-9xrgimvzjlsa",
+            "zendesk_id": 1500009937122
+        },
+        "installupdate-optisigns-player-on-rpi-via-script": {
+            "hash": "f203e4258085bdd1c9563470f91f74f1",
+            "updated_at": "2025-08-29T16:56:37Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/installupdateoptisignsplaye-kk9h948bp5ju",
+            "zendesk_id": 1500009382101
+        },
+        "how-to-enable-ssh-for-your-raspberry-pi": {
+            "hash": "dde1358673064301c4f11fe909019729",
+            "updated_at": "2025-09-04T15:36:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoenablesshforyourraspbe-snytz0fiyz2b",
+            "zendesk_id": 1500008008981
+        },
+        "how-to-use-live-tv-with-ads-app": {
+            "hash": "5ef40b96ac69a89a90a8db494888281f",
+            "updated_at": "2025-09-04T18:40:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouselivetvwithadsapp-vpyrbdce3syz",
+            "zendesk_id": 1500006130902
+        },
+        "multi-select-assets-in-filesassets-view": {
+            "hash": "1cb50a231adc8edeec155c59645a8ab6",
+            "updated_at": "2025-08-29T19:08:26Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/multiselectassetsinfilesass-urt6llah3f3g",
+            "zendesk_id": 1500006056101
+        },
+        "clean-install-of-optisigns-player-on-windows": {
+            "hash": "0d66c51afd01de8a1e257547d60bd2ad",
+            "updated_at": "2025-10-23T21:18:17Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/cleaninstallofoptisignsplay-bcwo8r2av3yv",
+            "zendesk_id": 1500005467601
+        },
+        "how-to-move-screen-to-other-team": {
+            "hash": "28c148ce5cc73b4de7eb353489e02a93",
+            "updated_at": "2025-09-04T15:11:08Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtomovescreentootherteam-ws5wep7l1s85",
+            "zendesk_id": 1500003161182
+        },
+        "how-to-mass-deploy-optisigns-on-raspberry-pi-devices": {
+            "hash": "9a3f1e4d0668442549e2bcbc59b5137c",
+            "updated_at": "2025-09-04T15:34:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtomassdeployoptisignsonr-yrhymlapvnhm",
+            "zendesk_id": 360063098753
+        },
+        "how-to-install-optisigns-as-screensaver-on-roku": {
+            "hash": "1c3c1f6e45f438be51d4127a6811a184",
+            "updated_at": "2025-09-04T20:46:23Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstalloptisignsasscre-784elyjrsvlo",
+            "zendesk_id": 1500002383502
+        },
+        "how-to-mix-playlists-and-maintain-screen-time-share-with-optisigns-content-rotation-app": {
+            "hash": "feeab971e63107ff40c6725a7ccdd346",
+            "updated_at": "2025-09-02T19:32:41Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtomixplaylistsandmaintai-2fqceuzkyddn",
+            "zendesk_id": 1500001561861
+        },
+        "advanced-enforce-sso-login-for-your-account": {
+            "hash": "5bb7a12ce4ae69f0d465615dac90a0f2",
+            "updated_at": "2025-09-02T20:14:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedenforcessologinfory-2qemirwdfsu5",
+            "zendesk_id": 360061576673
+        },
+        "how-to-allow-the-optisigns-app-to-access-local-storage-on-a-fire-stick": {
+            "hash": "d8e8d5e2a85fef11a2a5cc8d9b0b9d30",
+            "updated_at": "2025-08-29T20:30:23Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoallowtheoptisignsappto-8ysgpsruv6ph",
+            "zendesk_id": 1500000941981
+        },
+        "how-to-use-youtube-playlist-with-optisigns": {
+            "hash": "47ce98a5fc7b8fd1d4c87dee20236cae",
+            "updated_at": "2025-08-29T21:12:53Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseyoutubeplaylistwith-l24antqs101d",
+            "zendesk_id": 360059386254
+        },
+        "billing-how-do-i-change-my-subscription-plan": {
+            "hash": "2489341f6d3317e6e0bfd01b7531865b",
+            "updated_at": "2025-08-29T20:27:11Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/billinghowdoichangemysubscr-mmwk9nson5ok",
+            "zendesk_id": 1500000493782
+        },
+        "custom-branding-settings": {
+            "hash": "90866a4125d7b1a81d39baec6f77da24",
+            "updated_at": "2025-12-29T21:04:58Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/custombrandingsettings-vr7716sfdfy9",
+            "zendesk_id": 1500000485202
+        },
+        "advanced-custom-domain-mapping": {
+            "hash": "912db4a9a7a7d5c70ca134df6e738f12",
+            "updated_at": "2026-05-29T17:34:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedcustomdomainmapping-e0l1t1b0l6f0",
+            "zendesk_id": 1500000480302
+        },
+        "how-to-manually-install-activate-optisigns-ai-add-on-on-linux-or-raspberry-pi": {
+            "hash": "b0df7e33be803260f7006a0a30413775",
+            "updated_at": "2025-09-02T20:15:47Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtomanuallyinstallactivat-98v1r342cgoz",
+            "zendesk_id": 360060676993
+        },
+        "how-to-run-optisigns-ai-add-on-on-start-up-in-windows": {
+            "hash": "34b9018c1e21a093dfab659bd6b43a2b",
+            "updated_at": "2025-08-29T19:07:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtorunoptisignsaiaddonons-ckdtvwq1v7zu",
+            "zendesk_id": 360058345334
+        },
+        "audience-intelligence-ai-camera-faqs": {
+            "hash": "7d7eb2c2115236910bc6d90671b80043",
+            "updated_at": "2026-02-04T16:18:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/audienceintelligenceaicamer-xsn435lpievy",
+            "zendesk_id": 360058259834
+        },
+        "advanced-proof-of-play-or-playback-report": {
+            "hash": "af4a91aa5594ea6569cf80a3c64ed594",
+            "updated_at": "2026-02-26T18:04:23Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedproofofplayorplayba-n3s1qyxfompl",
+            "zendesk_id": 360058936513
+        },
+        "pre-configure-wi-fi-with-optisigns-devices": {
+            "hash": "7a5ee09660fe2dfb93f400afc6d771ec",
+            "updated_at": "2026-06-11T17:53:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/preconfigurewifiwithoptisig-3vahfgeeaagf",
+            "zendesk_id": 360055549854
+        },
+        "how-does-pre-configured-devices-labeled-in-shipping-package": {
+            "hash": "69b0c1642c31df4a668b9cd423a2b3a7",
+            "updated_at": "2025-08-29T18:41:08Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howdoespreconfigureddevices-hg1n5t2b7wwh",
+            "zendesk_id": 360055546594
+        },
+        "advanced-how-to-install-activate-optisigns-remote-agent-on-windows": {
+            "hash": "0f0a33a71402bee25025e671eb059957",
+            "updated_at": "2025-08-29T16:57:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedhowtoinstallactivat-jqz7eratl59i",
+            "zendesk_id": 360057327693
+        },
+        "remotely-control-and-command-optisigns-devices": {
+            "hash": "b783ee7cfc734e4bae483588082d8ea1",
+            "updated_at": "2025-09-24T18:58:23Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/remotelycontrolandcommandop-ibwf8xb7gdm9",
+            "zendesk_id": 360055486554
+        },
+        "how-to-enabledisable-auto-update-for-optisigns-app-on-fire-tv": {
+            "hash": "e459a1c8db2ea8beb8680ee869559226",
+            "updated_at": "2026-06-28T17:13:26Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoenabledisableautoupdat-qy29uas4na7h",
+            "zendesk_id": 360055328454
+        },
+        "advanced-how-to-manually-install-activate-optisigns-remote-agent-on-linux-or-raspberry-pi": {
+            "hash": "8d16f794ea05e38d1acece70c413ab91",
+            "updated_at": "2025-09-02T20:02:58Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedhowtomanuallyinstal-j7fqw4gszk79",
+            "zendesk_id": 360057146573
+        },
+        "how-to-use-usb-hub-adaptor-connect-to-your-fire-stick": {
+            "hash": "bd5d570369561c03a84a6246883cdb39",
+            "updated_at": "2025-09-04T15:23:44Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseusbhubadaptorconnec-mk63ry73br8a",
+            "zendesk_id": 360055080914
+        },
+        "how-to-change-time-zone-on-your-raspberry-pi-device": {
+            "hash": "aaa67b31ecfcf16129b1b73586dae8e6",
+            "updated_at": "2025-09-04T15:35:11Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtochangetimezoneonyourra-mgm0vadcymxl",
+            "zendesk_id": 360056655633
+        },
+        "how-to-connect-to-wifi-for-raspberry-pi": {
+            "hash": "126a628c66f0b3110d6a98c7d46a8b0f",
+            "updated_at": "2025-09-02T19:22:01Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoconnecttowififorraspbe-dd2rmcv6e3p8",
+            "zendesk_id": 360056627833
+        },
+        "optisigns-side-menu-options": {
+            "hash": "5025afd04cf37235fc7700c19ae24678",
+            "updated_at": "2025-09-04T17:29:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optisignssidemenuoptions-8eveutri5ogg",
+            "zendesk_id": 360056090593
+        },
+        "how-to-factory-reset-your-fire-stick-device": {
+            "hash": "a96ff9e3b13b9af0ecef2a9b8ccb52b7",
+            "updated_at": "2026-07-01T13:59:15Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtofactoryresetyourfirest-t535co451uc9",
+            "zendesk_id": 360054298754
+        },
+        "how-to-clear-cache-on-your-fire-stick-device": {
+            "hash": "4943df7bed2a37c3903195b997fd4993",
+            "updated_at": "2026-05-30T19:09:27Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoclearcacheonyourfirest-wkin7fii248n",
+            "zendesk_id": 360056087613
+        },
+        "how-to-change-time-zone-on-your-fire-stick-device": {
+            "hash": "02d10f5d6ecd803eae28c4a944797d0d",
+            "updated_at": "2026-05-20T21:12:27Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtochangetimezoneonyourfi-aiv5syt46tj5",
+            "zendesk_id": 360056086653
+        },
+        "how-to-uninstallreinstall-optisigns-app-from-your-fire-stick-device": {
+            "hash": "0b188fa722fc3ac2ee1cfc5da34df1e8",
+            "updated_at": "2025-09-02T19:06:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouninstallreinstallopti-b54zvay3v6an",
+            "zendesk_id": 360053198573
+        },
+        "how-to-update-fire-tv-os-to-latest-version": {
+            "hash": "8a3340e48ee64db5a40ba34137838531",
+            "updated_at": "2025-09-04T15:35:37Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoupdatefiretvostolatest-vy8si1gst3o3",
+            "zendesk_id": 360052361293
+        },
+        "how-to-set-up-an-instagram-businesscreator-account": {
+            "hash": "43a8b3d75c6b84011426bc41a8a2c661",
+            "updated_at": "2025-08-28T18:43:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupaninstagrambusine-pe5tvuqjf63p",
+            "zendesk_id": 360051745633
+        },
+        "difference-between-instagram-instagram-business-app": {
+            "hash": "858484a9d951d5a9155a2719faf4a726",
+            "updated_at": "2025-12-12T20:55:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/differencebetweeninstagrami-mb0r943btpt8",
+            "zendesk_id": 360050728934
+        },
+        "how-to-use-overlay-layers-with-optisigns": {
+            "hash": "b5886994815917c26b65766e7d090e4e",
+            "updated_at": "2025-09-02T19:14:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseoverlaylayerswithop-97rl1f6iwsca",
+            "zendesk_id": 360050602413
+        },
+        "edit-screen-what-does-each-option-do": {
+            "hash": "ca8c1f8d61bfcc904c576d04e251498e",
+            "updated_at": "2026-05-21T13:09:58Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/editscreenwhatdoeseachoptio-f9q3nzf3gzdl",
+            "zendesk_id": 360048914673
+        },
+        "whitelist-optisigns-ip-addresses-ports": {
+            "hash": "28f28a099935d303d433085660102fd2",
+            "updated_at": "2026-06-18T00:48:15Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whitelistoptisignsipaddress-zjyqm6dr0xxu",
+            "zendesk_id": 360047275934
+        },
+        "amazon-fire-stick-and-security-considerations": {
+            "hash": "28061d3d835b24c08010f064ab3a11d9",
+            "updated_at": "2025-08-29T17:00:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/amazonfirestickandsecurityc-wcz5m7uzx7de",
+            "zendesk_id": 360047232054
+        },
+        "advanced-security-managing-user-roles": {
+            "hash": "91d3619b2cbb2b3aa6341a1cdac48fc1",
+            "updated_at": "2026-02-04T16:01:54Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedsecuritymanaginguse-rq316lqnl4p0",
+            "zendesk_id": 360046356113
+        },
+        "theres-no-sounds-output-for-my-raspberry-pi": {
+            "hash": "be137249b328a30381d78a00a10be7a1",
+            "updated_at": "2025-08-28T20:14:25Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/theresnosoundsoutputformyra-uzp9kdoigtn8",
+            "zendesk_id": 360044614514
+        },
+        "folder-level-permissions": {
+            "hash": "3f4c348a8c999647a1d880fbab2600bf",
+            "updated_at": "2025-09-10T15:02:26Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/folderlevelpermissions-3p3wmt1aa4hf",
+            "zendesk_id": 360044600474
+        },
+        "organizing-your-files-assets-playlists-and-schedules-by-using-folders": {
+            "hash": "dc7753143eee787eb837e4c0830078ed",
+            "updated_at": "2025-09-04T17:06:53Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/organizingyourfilesassetspl-iqlzhs9wcvlk",
+            "zendesk_id": 360043670633
+        },
+        "how-to-create-and-use-nested-playlists": {
+            "hash": "4cd3afb00b2518f1ccb7bfe215aa36c8",
+            "updated_at": "2025-09-04T20:17:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateandusenestedplay-p43c0btj2nv4",
+            "zendesk_id": 360043621953
+        },
+        "how-to-set-an-asset-to-live-or-expire-at-specific-time": {
+            "hash": "6885e582c7675850396685cd1ca6ac83",
+            "updated_at": "2026-05-14T22:03:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetanassettoliveorexpi-q6b3x3chdl3h",
+            "zendesk_id": 360042736794
+        },
+        "how-to-re-encode-video-files-for-better-compatibility-on-your-devices": {
+            "hash": "48522e422c69b5300311e5c09684e53f",
+            "updated_at": "2026-06-29T19:08:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoreencodevideofilesforb-8p2vyw0a5gxl",
+            "zendesk_id": 360042143753
+        },
+        "roku-release-notes-limitation": {
+            "hash": "6cd59b60779990230d173b23684cc29a",
+            "updated_at": "2026-06-02T20:21:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/rokureleasenoteslimitation-eo0pydggbheu",
+            "zendesk_id": 360042143333
+        },
+        "how-to-change-billing-information": {
+            "hash": "18c73cf50c71aa42d4d44f25e54f8c3a",
+            "updated_at": "2025-08-28T20:03:48Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtochangebillinginformati-x6jt5zy3vk5p",
+            "zendesk_id": 360041587014
+        },
+        "my-image-content-are-bleeding-off-the-screens-with-windows-linux-mac-raspberry-pi-app-need-screen-calibration": {
+            "hash": "42ccf703372b44097d0952bafa30fd80",
+            "updated_at": "2025-08-29T21:06:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/myimagecontentarebleedingof-n3xhkxhfrr60",
+            "zendesk_id": 360041570153
+        },
+        "assign-default-content-for-schedules": {
+            "hash": "a882f993af9523c649a28e41b4c0c550",
+            "updated_at": "2026-05-05T19:18:10Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/assigndefaultcontentforsche-p3nktc5edquj",
+            "zendesk_id": 360040943374
+        },
+        "how-to-install-optisigns-as-channelapp-on-roku": {
+            "hash": "751360d3dbcdc02b9f9af7e3299fed43",
+            "updated_at": "2025-09-02T19:35:39Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstalloptisignsaschan-0vs8guz1lwre",
+            "zendesk_id": 360039566974
+        },
+        "video-codec-or-video-playback-issues": {
+            "hash": "926d50e3ceaedb22680a881ab21817bd",
+            "updated_at": "2025-08-29T20:15:48Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/videocodecorvideoplaybackis-4dgi63wfcol7",
+            "zendesk_id": 360038992973
+        },
+        "how-to-use-the-atlassian-jira-app": {
+            "hash": "33a60d833043d8c0cbdfad5a88cb8640",
+            "updated_at": "2025-08-28T20:12:13Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheatlassianjiraapp-qrvm033hi0op",
+            "zendesk_id": 360037416494
+        },
+        "how-to-display-content-inside-websites-that-require-login": {
+            "hash": "cf45ab3d7926300d905f8c6f5d1ff06c",
+            "updated_at": "2026-06-25T12:33:44Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplaycontentinsidewe-d19k7avcwwyi",
+            "zendesk_id": 360037391854
+        },
+        "adjusting-social-news-wall-speeds": {
+            "hash": "66a3204d9cdefa43dffb6e232f2a0efc",
+            "updated_at": "2025-09-04T16:12:31Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/adjustingsocialnewswallspee-svg0wuj7x7dy",
+            "zendesk_id": 360036465673
+        },
+        "my-image-content-are-bleeding-off-the-screens-with-fire-tv-need-screen-calibration": {
+            "hash": "10c3857c1ca53ff950f210e99cb28159",
+            "updated_at": "2026-07-07T05:05:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/myimagecontentarebleedingof-kybk4zco1sc9",
+            "zendesk_id": 360035538093
+        },
+        "working-with-teams-and-security-levels": {
+            "hash": "ece5284544893d2af591c5bbd7644c03",
+            "updated_at": "2026-06-01T19:53:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/workingwithteamsandsecurity-fhop2lw22xvc",
+            "zendesk_id": 360034883113
+        },
+        "windows": {
+            "hash": "43bab30d20e94c8ba672fe9015a85cc6",
+            "updated_at": "2025-09-04T19:17:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/windows-r6e79q8oy4zy",
+            "zendesk_id": 360034379293
+        },
+        "powerpoint-transition-and-animation-effect": {
+            "hash": "22f194c46eb3c499ec8e5e1035a3139b",
+            "updated_at": "2025-08-28T19:47:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/powerpointtransitionandanim-ge1ywsutbnjk",
+            "zendesk_id": 360034219593
+        },
+        "stretch-your-images-document-stretch-vs-fit-vs-zoom-your-content": {
+            "hash": "59a18398ed2d7b3b5fea0479a4228976",
+            "updated_at": "2025-08-29T18:50:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/stretchyourimagesdocumentst-3i5om6iz5bq4",
+            "zendesk_id": 360026610194
+        },
+        "how-to-create-a-scrolling-strip-bars": {
+            "hash": "032089ccb42ef48be807fc7d33ab7c16",
+            "updated_at": "2025-09-02T19:11:51Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateascrollingstripb-zmjzaibhtkc5",
+            "zendesk_id": 360026559613
+        },
+        "how-to-create-and-use-the-split-screen-app": {
+            "hash": "68dbf487db8b6663c0ffc8593d0e029f",
+            "updated_at": "2026-02-04T16:37:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateandusethesplitsc-1j6cs1vwz4qf",
+            "zendesk_id": 360026559573
+        },
+        "how-can-i-removedelete-uploaded-files-or-assets": {
+            "hash": "ef47bd55314866bc2940a52754d719b7",
+            "updated_at": "2026-06-26T20:54:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howcaniremovedeleteuploaded-0vokz7o3meer",
+            "zendesk_id": 360025661053
+        },
+        "how-to-start-optisigns-automatically-when-devices-boot-up": {
+            "hash": "0939a98c244c9790857308a1cc85cd7a",
+            "updated_at": "2026-06-08T18:26:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtostartoptisignsautomati-wcw0zupr4qs1",
+            "zendesk_id": 360025626853
+        },
+        "can-i-disable-the-download-button-for-assets": {
+            "hash": "e578cbda007acbc3a16969b1d304bd6e",
+            "updated_at": "2025-08-29T16:59:24Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/canidisablethedownloadbutto-bjjnvyvxb226",
+            "zendesk_id": 360020931734
+        },
+        "how-to-install-an-apk-file-on-your-fire-tv": {
+            "hash": "d2f9adad929b52a52779323ca8acbab5",
+            "updated_at": "2026-06-19T15:42:09Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstallanapkfileonyour-yfnpqfbqpj7t",
+            "zendesk_id": 360016313754
+        },
+        "does-optisigns-offer-non-profiteducation-discount": {
+            "hash": "86cd17e3bcd470c4df3854311c5745a3",
+            "updated_at": "2026-07-02T17:12:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/doesoptisignsoffernonprofit-zr4i8itdu1zm",
+            "zendesk_id": 360016252654
+        },
+        "how-to-upload-manage-your-files-assets": {
+            "hash": "6f6e7846c9803efb3fc5d6ccff387351",
+            "updated_at": "2026-05-28T19:30:59Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouploadmanageyourfilesa-qzapxyd89pmu",
+            "zendesk_id": 360016247974
+        },
+        "what-types-of-files-are-supported": {
+            "hash": "d3911c97df1cf30da6802f28c2f50831",
+            "updated_at": "2025-09-08T14:04:57Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whattypesoffilesaresupporte-mnuylnoejkzk",
+            "zendesk_id": 360016342373
+        },
+        "animation": {
+            "hash": "3211143bdc02338fe4b30a1fc7aa9660",
+            "updated_at": "2025-09-02T19:02:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/animation-t54iv5hm659m",
+            "zendesk_id": 42305104960147
+        },
+        "proplayer": {
+            "hash": "743224590f3bdfe7224a4e34734d0d23",
+            "updated_at": "2026-03-30T17:22:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/proplayer-fcyijq8bs8fj",
+            "zendesk_id": 32272215514131
+        },
+        "how-to-use-the-optisigns-mobile-admin-app": {
+            "hash": "95e5c63d606456cb2617f12cfbd7fc4e",
+            "updated_at": "2026-06-11T11:49:35Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheoptisignsmobilea-k375zfuk96q5",
+            "zendesk_id": 30003143806099
+        },
+        "how-to-add-a-microsoft-365-excel-spreadsheet-as-a-datasource-for-optisync": {
+            "hash": "c91a8a3d96fda3e1a3938b65a4582aaa",
+            "updated_at": "2026-01-29T16:01:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoaddamicrosoft365excels-cnw0g3ue9a7y",
+            "zendesk_id": 29863080711059
+        },
+        "how-to-manage-and-edit-your-playlist-settings": {
+            "hash": "19ba57fa2369cedaf03a8c6eeee9bfbd",
+            "updated_at": "2026-06-04T22:14:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtomanageandedityourplayl-yky5bm6y5nin",
+            "zendesk_id": 28295074995859
+        },
+        "how-to-fix-the-scaling-issue-on-optisigns-android-device-gen-3": {
+            "hash": "93c5271ba39412aacbd9f4d5d8005f67",
+            "updated_at": "2025-09-04T15:34:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtofixthescalingissueonop-0z475y7pcjdu",
+            "zendesk_id": 28026588373139
+        },
+        "how-to-get-the-most-out-of-your-digital-signs": {
+            "hash": "1859911c7a1a41e7fa4aa4def625ce11",
+            "updated_at": "2026-06-08T15:18:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtogetthemostoutofyourdig-r524fuux9wlr",
+            "zendesk_id": 25607930101907
+        },
+        "how-to-share-contents-with-other-usersteams": {
+            "hash": "a335fa1eaa5262d37ee0c3d87ea5a3a2",
+            "updated_at": "2026-05-29T17:35:48Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosharecontentswithother-7jggzuqsthdt",
+            "zendesk_id": 18986181635859
+        },
+        "how-to-get-the-list-of-playlists-where-the-asset-is-used": {
+            "hash": "1926973573e44632a7924053a2f179e7",
+            "updated_at": "2025-08-29T19:04:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtogetthelistofplaylistsw-n1nw2h3iva1o",
+            "zendesk_id": 4472060158355
+        },
+        "generate-manage-optisigns-api-key": {
+            "hash": "8e852a25f58bafa3c64d461a658af1e0",
+            "updated_at": "2025-09-04T18:50:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/generatemanageoptisignsapik-glr1ih3aon9u",
+            "zendesk_id": 4414563797139
+        },
+        "view-billing-history-and-download-receipts": {
+            "hash": "8bfc5825c814a775b8862184e925ecc1",
+            "updated_at": "2025-09-04T15:43:44Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/viewbillinghistoryanddownlo-0nptccf2wvwa",
+            "zendesk_id": 360054557434
+        },
+        "how-to-link-instagram-business-or-creator-account-to-facebook-account": {
+            "hash": "9b040e9425b9dadf51e8a62c8f712f25",
+            "updated_at": "2025-08-28T18:44:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtolinkinstagrambusinesso-q1q8m8c5otp8",
+            "zendesk_id": 360050855313
+        },
+        "how-to-use-google-slides-with-optisigns": {
+            "hash": "78e9342512eff8a157c22109d1e6d0a8",
+            "updated_at": "2026-01-31T15:45:41Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousegoogleslideswithopt-likoerjroq2j",
+            "zendesk_id": 360050642833
+        },
+        "macos": {
+            "hash": "5b4ea359d4d96d7e5345cb4b238fb209",
+            "updated_at": "2025-09-02T20:32:57Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/macos-rltofmk9xlql",
+            "zendesk_id": 360041501494
+        },
+        "how-to-preview-a-screen": {
+            "hash": "86e49758267d1c0e7a0d75b0e4117735",
+            "updated_at": "2026-05-17T21:11:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtopreviewascreen-4vol579q3abv",
+            "zendesk_id": 360035739414
+        },
+        "how-to-use-a-pdf-with-optisigns": {
+            "hash": "e3004b058e5b0602ffc641fd075a48b7",
+            "updated_at": "2025-09-04T18:06:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseapdfwithoptisigns-k0mq0fctpx8o",
+            "zendesk_id": 360024310813
+        },
+        "how-to-check-wifi-signal-strength-on-the-amazon-fire-tv-stick": {
+            "hash": "da26dd2ba384f24323bf148b26a8776e",
+            "updated_at": "2025-09-05T15:00:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocheckwifisignalstrengt-y4s8qq8rjoap",
+            "zendesk_id": 360016380053
+        },
+        "your-templates": {
+            "hash": "95f0f54813b260d193a7c031c2c9586c",
+            "updated_at": "2026-05-12T21:04:13Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/yourtemplates-y0megn7h9wf9",
+            "zendesk_id": 42830652820115
+        },
+        "promax": {
+            "hash": "0b7da5f187eb703e41b30f0a750488c7",
+            "updated_at": "2026-03-30T17:22:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/promax-3mpk7o605o4i",
+            "zendesk_id": 38680194603155
+        },
+        "how-to-contact-optisigns-support": {
+            "hash": "bac50e55ea91e96ba8c4f50f8e7b5315",
+            "updated_at": "2025-09-04T17:13:59Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocontactoptisignssuppor-orglkgpu702r",
+            "zendesk_id": 35626165056787
+        },
+        "how-to-add-google-sheets-as-a-datasource-for-optisync": {
+            "hash": "72e645e4fe0f1956a5857ffc48cad239",
+            "updated_at": "2025-09-04T14:07:29Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoaddgooglesheetsasadata-gmiu5ummg9sp",
+            "zendesk_id": 29838866920211
+        },
+        "i-received-the-optisigns-device-but-its-onhold-and-cannot-assign-content": {
+            "hash": "d97c0cc5f574081a9ca3e922f9cbffd7",
+            "updated_at": "2025-08-28T19:48:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/ireceivedtheoptisignsdevice-hpy85hhpt9u8",
+            "zendesk_id": 27676133574547
+        },
+        "how-to-cancel-subscription-or-pause-subscription-for-seasonal-use-case": {
+            "hash": "d042abb3bc265cc78c7df7f9f457a452",
+            "updated_at": "2026-05-28T20:38:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocancelsubscriptionorpa-bhlq5pootbw5",
+            "zendesk_id": 17639078588691
+        },
+        "how-to-install-optisigns-player-on-apple-tv": {
+            "hash": "1945cd1c57de2f3a3c0e0eb16548215f",
+            "updated_at": "2025-09-02T19:59:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstalloptisignsplayer-49unodd4flvy",
+            "zendesk_id": 6636047009427
+        },
+        "get-started-with-optisigns-api": {
+            "hash": "6e5d1936ec47656d542a5893b3c002c0",
+            "updated_at": "2025-11-06T16:52:11Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/getstartedwithoptisignsapi-u85nsbc98t90",
+            "zendesk_id": 4414563863827
+        },
+        "advanced-how-to-assign-security-for-users-to-only-edit-certain-zones-of-the-screens": {
+            "hash": "3e1320bef5d4b3224d385d5a473f35c8",
+            "updated_at": "2025-09-02T19:14:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/advancedhowtoassignsecurity-s4axb83wtw9v",
+            "zendesk_id": 1500002047642
+        },
+        "set-optisigns-as-screensaver-on-windows": {
+            "hash": "5dd73d579ad03da007673bc2296d5f1a",
+            "updated_at": "2025-08-29T20:39:30Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/setoptisignsasscreensaveron-ba34iqpd8dqf",
+            "zendesk_id": 360053211594
+        },
+        "show-youtube-videos-subtitleclosed-caption": {
+            "hash": "95b9a8350c95c2f1155b885c5d3b8ecb",
+            "updated_at": "2025-07-31T18:59:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/showyoutubevideossubtitlecl-wbr2vihgzfcj",
+            "zendesk_id": 360051014773
+        },
+        "linux": {
+            "hash": "ff7f059f2d4f4fa530f2e02d6f47e6e6",
+            "updated_at": "2025-09-04T19:26:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/linux-ou8zopc0ovvi",
+            "zendesk_id": 360034379573
+        },
+        "changing-screens-orientation-portrait-landscape": {
+            "hash": "28d3066157eb4a8f28fd8a026417034b",
+            "updated_at": "2025-09-04T15:18:11Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/changingscreensorientationp-y9qsj6ahxxep",
+            "zendesk_id": 360016833514
+        },
+        "how-can-i-remotely-startrestart-optisigns-app-on-fire-tv": {
+            "hash": "b445b50e56a63cf344f4bfb0dad32471",
+            "updated_at": "2025-08-29T18:49:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howcaniremotelystartrestart-600vht18s8os",
+            "zendesk_id": 360016485633
+        },
+        "how-to-create-and-use-instagram-wall": {
+            "hash": "2aba56f6bcc6bcfcbc9f6ab477024158",
+            "updated_at": "2025-09-02T20:31:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateanduseinstagramw-duki0plk5mlg",
+            "zendesk_id": 360016388733
+        },
+        "what-if-i-want-to-increase-decrease-number-of-screens-during-the-month": {
+            "hash": "ccacd4e74a92dec390427de62b8803db",
+            "updated_at": "2025-08-28T19:48:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whatifiwanttoincreasedecrea-ppthwsp8o9c7",
+            "zendesk_id": 360016219114
+        },
+        "kiosk10": {
+            "hash": "3654a6cab1b1aa7885a35b4b7d6ca9c4",
+            "updated_at": "2026-05-28T16:41:17Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/kiosk10-j043fjfhvefs",
+            "zendesk_id": 44652521310099
+        },
+        "widgets-in-designer": {
+            "hash": "642df9eb0751227ef30e450c3e6103f3",
+            "updated_at": "2026-06-03T15:53:35Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/widgetsindesigner-7h5ewh1hys7m",
+            "zendesk_id": 42436941395475
+        },
+        "how-to-display-dynamic-event-schedules-using-optisync": {
+            "hash": "5e22212972497dd5d2c92ab48622a3be",
+            "updated_at": "2025-09-04T14:59:16Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplaydynamiceventsch-twkc0iu2x6f6",
+            "zendesk_id": 33468569218067
+        },
+        "how-to-fix-the-scaling-issue-on-optisigns-android-device": {
+            "hash": "34d7758ca5762a41cc4ddb8d85486809",
+            "updated_at": "2025-08-29T16:56:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtofixthescalingissueonop-4upoh01zwy9a",
+            "zendesk_id": 27607906766483
+        },
+        "how-to-manage-sub-account-billing-with-optisigns": {
+            "hash": "53058ed5cbb05d3ce5a3272aa0ce9576",
+            "updated_at": "2026-06-24T17:40:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtomanagesubaccountbillin-rmrf2jfba23j",
+            "zendesk_id": 17129313173395
+        },
+        "how-to-install-optisigns-on-samsung-tizen-smart-tvs": {
+            "hash": "5c030b5c13c9a23e405587565fc43535",
+            "updated_at": "2025-09-02T19:37:57Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstalloptisignsonsams-unjeup9mif4o",
+            "zendesk_id": 14726570281875
+        },
+        "graphql-api-tutorial-pair-and-assign-content-to-screen": {
+            "hash": "626b93e32d292e8bbad106aa4a65d745",
+            "updated_at": "2025-09-04T18:53:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/graphqlapitutorialpairandas-38bl3pwg1gi3",
+            "zendesk_id": 4414553099667
+        },
+        "moderate-your-social-media-feeds": {
+            "hash": "7ce24a46a4ee9f3748f4c12c9e56c195",
+            "updated_at": "2025-09-02T19:15:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/moderateyoursocialmediafeed-9g1flasgnddy",
+            "zendesk_id": 4403015887763
+        },
+        "android-tv-chromecast": {
+            "hash": "06bce61ab8fbb66601bba9cc9c463189",
+            "updated_at": "2025-09-02T19:55:41Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/androidtvchromecast-izawsfspx7op",
+            "zendesk_id": 1500004699122
+        },
+        "how-to-use-approval-workflow-feature": {
+            "hash": "8716bc299723055b47fd3f20435ca191",
+            "updated_at": "2025-08-29T18:47:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseapprovalworkflowfea-w8aba7jb0m2r",
+            "zendesk_id": 360063693093
+        },
+        "what-hardware-and-devices-are-supported": {
+            "hash": "18802bcc6b8967856051b02ed011afe6",
+            "updated_at": "2026-01-07T16:05:26Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whathardwareanddevicesaresu-gq33o3b7s2p3",
+            "zendesk_id": 360021855653
+        },
+        "how-to-tell-which-dropbox-account-that-i-linked-to-optisigns": {
+            "hash": "077c23104ba89510dabd40c752ef56be",
+            "updated_at": "2025-08-29T18:51:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtotellwhichdropboxaccoun-c1m48pd7e4zs",
+            "zendesk_id": 360019588654
+        },
+        "how-to-use-weather-apps-in-optisigns": {
+            "hash": "0021ead5c5dbddc370e3185cd8c42b30",
+            "updated_at": "2025-09-02T19:43:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseweatherappsinoptisi-9gpqu32f6kxd",
+            "zendesk_id": 360017964153
+        },
+        "assign-content-to-your-screens": {
+            "hash": "93f1a743f6df91caa191470f0634f2ae",
+            "updated_at": "2025-08-29T21:09:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/assigncontenttoyourscreens-hw4thmaonbl8",
+            "zendesk_id": 360016375153
+        },
+        "kiosk32": {
+            "hash": "5ac869f3deba29b15aeb1e2ab4fc00be",
+            "updated_at": "2026-04-29T15:27:37Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/kiosk32-kctfcjli5676",
+            "zendesk_id": 44669013147923
+        },
+        "photos-gifs-and-qr-codes-in-designer": {
+            "hash": "88227e7d95bf4db91650fad54851a6dc",
+            "updated_at": "2025-09-26T20:04:17Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/photosgifsandqrcodesindesig-vpli4rn3b2hq",
+            "zendesk_id": 42526907045651
+        },
+        "how-to-display-birthday-lists-with-optisync-data-mapping-and-google-sheets": {
+            "hash": "a28ab28203fb15a39236df6e75d2800e",
+            "updated_at": "2026-01-09T02:22:54Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplaybirthdaylistswi-r9pqjtt07f9g",
+            "zendesk_id": 29979283289235
+        },
+        "display-device-info-onscreen": {
+            "hash": "dd5bbd903221073a90301ebe2a15c990",
+            "updated_at": "2025-09-04T15:08:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/displaydeviceinfoonscreen-oagp0eqery3j",
+            "zendesk_id": 27070013297427
+        },
+        "present-share-ios-android-phone-tablet-to-your-screen-with-optisigns-aericast-add-on": {
+            "hash": "bba927c34995db53d2c74fb608391be0",
+            "updated_at": "2025-09-04T15:09:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/presentshareiosandroidphone-z7x7wv8kuq52",
+            "zendesk_id": 14557706459283
+        },
+        "tutorial-create-update-add-remove-items-from-playlists": {
+            "hash": "244e47ffc3af5cd424ed9934d3e10d1a",
+            "updated_at": "2025-09-04T19:02:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/tutorialcreateupdateaddremo-ydxvll5efuk0",
+            "zendesk_id": 4414558295955
+        },
+        "multilingual-and-multi-currency": {
+            "hash": "41bae50a03362749f157c4bc07382afd",
+            "updated_at": "2025-09-04T15:30:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/multilingualandmulticurrenc-r4zscaanvsas",
+            "zendesk_id": 4411762539027
+        },
+        "how-to-install-optisigns-player-on-android-boxes": {
+            "hash": "95fdf31b773425aad48c3d74ec104f42",
+            "updated_at": "2025-09-02T19:45:53Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstalloptisignsplayer-ob9bwfgqk7fz",
+            "zendesk_id": 1500008112642
+        },
+        "raspberry-pi": {
+            "hash": "8097f27d46b27d719a1d956463b2b0f0",
+            "updated_at": "2025-10-07T15:03:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/raspberrypi-3fn0fpo8wj69",
+            "zendesk_id": 360034379693
+        },
+        "multi-users-invite-your-team-members-to-your-account": {
+            "hash": "67b94cc37aada1cead889c60aadc19d7",
+            "updated_at": "2025-09-04T18:00:06Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/multiusersinviteyourteammem-5ynjznpqu9gj",
+            "zendesk_id": 360016990233
+        },
+        "set-up-add-a-screen": {
+            "hash": "8afb1f483d745fb032bcaa177fea662c",
+            "updated_at": "2025-09-04T16:14:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/setupaddascreen-q5r54nd2k3m2",
+            "zendesk_id": 360016374813
+        },
+        "kiosk50": {
+            "hash": "bc045239f9811cf9475aa45aad4b70a2",
+            "updated_at": "2026-03-30T17:22:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/kiosk50-kh0uo5uoodjl",
+            "zendesk_id": 46299245284243
+        },
+        "customize-text": {
+            "hash": "afe3c7a11ddfe993bb2821d20741c2f8",
+            "updated_at": "2025-08-28T19:17:42Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/customizetext-734gijwqgnc8",
+            "zendesk_id": 42157810188179
+        },
+        "tutorial-creating-or-updating-website-assets-using-graphql": {
+            "hash": "f6dcbdd9fd22f0f0190862ac096eaa04",
+            "updated_at": "2025-09-04T18:54:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/tutorialcreatingorupdatingw-5wnms0p1rnoa",
+            "zendesk_id": 36562094987795
+        },
+        "how-to-create-custom-news-feeds-with-optisync": {
+            "hash": "f4daf1b1d93550d030f2ec281d24fc91",
+            "updated_at": "2025-10-01T19:04:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreatecustomnewsfeedsw-ncobwzks4zlq",
+            "zendesk_id": 35337746613139
+        },
+        "amazon-signage-stick": {
+            "hash": "657d3d28608c490707c346284dbf0ba6",
+            "updated_at": "2025-09-02T18:43:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/amazonsignagestick-1f9b85vaw68q",
+            "zendesk_id": 34087061669523
+        },
+        "how-to-use-aericast-add-on-for-wireless-presentation-and-video-conferencing": {
+            "hash": "24c4f0a52e0993da2c6bf59a9fe8f10a",
+            "updated_at": "2025-09-04T16:49:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseaericastaddonforwir-q6uc05lzxd00",
+            "zendesk_id": 14502723487379
+        },
+        "how-to-change-account-owners": {
+            "hash": "9b3878edb44dc13fd84c2e76ca3c0110",
+            "updated_at": "2026-05-05T16:36:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtochangeaccountowners-atvqajp58vna",
+            "zendesk_id": 4404616314515
+        },
+        "how-to-install-optisigns-as-an-apk-file-on-android-devices": {
+            "hash": "e571ebd5657983eaa07d822d9e4db085",
+            "updated_at": "2025-09-04T14:06:18Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoinstalloptisignsasanap-g55jpb0dti4c",
+            "zendesk_id": 1500011891542
+        },
+        "how-to-unpair-a-device-screen": {
+            "hash": "2e8a7723323328e4f394ce6ed1d1b815",
+            "updated_at": "2025-08-28T20:07:13Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtounpairadevicescreen-muqs0v44x6nd",
+            "zendesk_id": 360058700673
+        },
+        "how-far-back-or-how-many-posts-will-be-fetched-for-my-social-walls": {
+            "hash": "0ff5d1b33c5806419894d1f04e3b3215",
+            "updated_at": "2025-09-05T15:04:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howfarbackorhowmanypostswil-3ajb4wj26b53",
+            "zendesk_id": 360042424294
+        },
+        "how-to-use-imovie-content-with-optisigns": {
+            "hash": "c2b0115b41cc94d12a44dadf4c2a5c34",
+            "updated_at": "2025-08-29T18:55:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseimoviecontentwithop-5jnwomul0tym",
+            "zendesk_id": 360016494933
+        },
+        "legacy-datasources": {
+            "hash": "4c2f0924167791d13cea915c8930cac3",
+            "updated_at": "2025-09-04T16:58:08Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/legacydatasources-ycu0fk89go4a",
+            "zendesk_id": 42915219118739
+        },
+        "shapes-and-elements": {
+            "hash": "01c5a970161e9dd90aac5f500850ec9b",
+            "updated_at": "2026-03-30T20:09:57Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/shapesandelements-gr7q1s0hiioy",
+            "zendesk_id": 42307234534547
+        },
+        "tutorial-creating-schedules-and-adding-schedule-items-using-graphql": {
+            "hash": "96f338bfdc75bed0382c566071f73418",
+            "updated_at": "2025-09-04T14:03:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/tutorialcreatingschedulesan-wcdtb51q8mbd",
+            "zendesk_id": 36558834998291
+        },
+        "optisigns-pro-player-advanced-features": {
+            "hash": "47bd299d4a41ab4da52165a3eb3eb267",
+            "updated_at": "2026-03-30T17:22:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/optisignsproplayeradvancedf-r3f37jibfzlf",
+            "zendesk_id": 35577511423635
+        },
+        "how-to-add-captions-to-vimeo-videos": {
+            "hash": "f78ce7e36315c18d98079b5af9732642",
+            "updated_at": "2025-09-04T15:31:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoaddcaptionstovimeovide-dll7zvvzrqyu",
+            "zendesk_id": 18500083191059
+        },
+        "present-share-your-screen-with-optisigns-aericast-add-on": {
+            "hash": "21be3d28098ceeb0d8a058bff0eab32b",
+            "updated_at": "2025-09-02T20:12:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/presentshareyourscreenwitho-o30rqv96toz0",
+            "zendesk_id": 14502378549907
+        },
+        "how-to-delete-your-account-from-optisigns": {
+            "hash": "01fb6e70919d1d4e45237ab1a30762c2",
+            "updated_at": "2025-08-29T17:02:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodeleteyouraccountfromo-bhjqgxmkqgpk",
+            "zendesk_id": 4404608957075
+        },
+        "amazon-firestick": {
+            "hash": "aecdbb17851f7fbd89fb22729a029525",
+            "updated_at": "2026-06-05T22:12:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/amazonfirestick-1pbnvvkwt9eq",
+            "zendesk_id": 360016174554
+        },
+        "kiosk-setup-hub": {
+            "hash": "54970fc55c453054701523a08ff3c46a",
+            "updated_at": "2026-03-30T17:22:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/kiosksetuphub-8nkvg2tlgmig",
+            "zendesk_id": 44650391786131
+        },
+        "brand-kit-and-enforcing-brand-guidelines": {
+            "hash": "c6fc1e9624d748f4003f2941ab8eb0b6",
+            "updated_at": "2025-09-04T17:25:47Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/brandkitandenforcingbrandgu-msunq2q8q909",
+            "zendesk_id": 42313875427859
+        },
+        "update-optisigns-player-on-optisigns-pro-player-gen-2-via-script": {
+            "hash": "260632dc2e1b6980f65dd8d49589c739",
+            "updated_at": "2025-09-02T20:33:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/updateoptisignsplayeronopti-tyleay13vc37",
+            "zendesk_id": 21449362442003
+        },
+        "how-to-use-the-musthavemenus-app-with-optisigns": {
+            "hash": "eb7d639ec4a4c34c0695b292e8e00d92",
+            "updated_at": "2025-08-29T20:23:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethemusthavemenusapp-ry1zmhk4enhf",
+            "zendesk_id": 12454101966355
+        },
+        "pagination": {
+            "hash": "14a3f4dc5d7e7fbe41491416894172ae",
+            "updated_at": "2025-09-04T16:16:44Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/pagination-ugb3gnv4819b",
+            "zendesk_id": 4414558369811
+        },
+        "how-to-replaceupdate-an-existing-asset-image-video-documents": {
+            "hash": "4861da95b1f044279954ba76f1533305",
+            "updated_at": "2025-08-29T19:08:59Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoreplaceupdateanexistin-dvjzu6p8jrg5",
+            "zendesk_id": 1500009498782
+        },
+        "fireos-tvs-amazon-insigna-toshiba-tcl": {
+            "hash": "20e3d4baa28e1732dd92d30c872931c2",
+            "updated_at": "2025-09-02T20:43:39Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/fireostvsamazoninsignatoshi-ld0lt81rq4s3",
+            "zendesk_id": 1500009042742
+        },
+        "about-the-onhold-devices-folder": {
+            "hash": "8c701568a39e5d2a4f70433fcf0cc6d0",
+            "updated_at": "2025-08-29T20:02:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/abouttheonholddevicesfolder-tctdxhg4r5ik",
+            "zendesk_id": 1500003244381
+        },
+        "creating-and-using-schedules-with-optisigns": {
+            "hash": "a03632e7382ad75eceeee0642d5c5a22",
+            "updated_at": "2026-03-31T22:14:33Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/creatingandusingscheduleswi-hz4a2anwfxu4",
+            "zendesk_id": 360016981853
+        },
+        "why-does-my-screen-show-as-offline-on-the-web-portal": {
+            "hash": "ef5d9c3495d6f57366d1f6a599a26bab",
+            "updated_at": "2026-05-19T19:33:42Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whydoesmyscreenshowasofflin-fijtp6exzh5n",
+            "zendesk_id": 360016484473
+        },
+        "where-to-buy-optisigns-devices": {
+            "hash": "04eabd9dfc523f9d4b963920c5d7dcf7",
+            "updated_at": "2026-03-30T17:22:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/wheretobuyoptisignsdevices-5jxw0is1xole",
+            "zendesk_id": 32129032857875
+        },
+        "how-to-use-waitwhile-app": {
+            "hash": "8350ad603ce10c777f3437c77e78af10",
+            "updated_at": "2025-08-29T21:22:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousewaitwhileapp-b1xofrp1bzrx",
+            "zendesk_id": 11784310183571
+        },
+        "brightsign-players": {
+            "hash": "97497fa325131b3a4599d4498a14c1d2",
+            "updated_at": "2026-05-05T15:50:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/brightsignplayers-22lr0rcu68h8",
+            "zendesk_id": 5090125683219
+        },
+        "error-handling": {
+            "hash": "a1326cb45397cd051646c7768ab48209",
+            "updated_at": "2025-09-11T14:10:24Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/errorhandling-axdct7c6rcca",
+            "zendesk_id": 4414564078995
+        },
+        "how-can-i-improve-stability-of-fire-tv-as-digital-signage-player": {
+            "hash": "3d6e6c607f1878760f9a75225c8d80c1",
+            "updated_at": "2025-09-04T15:33:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howcaniimprovestabilityoffi-pr0xiiub29im",
+            "zendesk_id": 360016484393
+        },
+        "can-i-have-my-invoices-receipts-sent-to-a-different-email-address": {
+            "hash": "2daf22c26d51a77e25675e277fea4d63",
+            "updated_at": "2025-08-28T19:44:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/canihavemyinvoicesreceiptss-zymqdn1mvvn6",
+            "zendesk_id": 360016375793
+        },
+        "subscription-function-in-graphql": {
+            "hash": "990a7e3463431d39ff936b7b57755037",
+            "updated_at": "2025-09-04T15:00:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/subscriptionfunctioningraph-8shqedjpnn12",
+            "zendesk_id": 36558469962643
+        },
+        "how-to-display-google-slide-in-portrait-mode": {
+            "hash": "e57679365ce58bf5c945bd4996f91bd2",
+            "updated_at": "2025-09-04T15:42:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplaygoogleslideinpo-02fkumyoeokl",
+            "zendesk_id": 360019710493
+        },
+        "what-happen-if-internet-connection-is-lost": {
+            "hash": "20d514b4d1d12c526cf3f6ad4ae370d6",
+            "updated_at": "2026-05-26T18:14:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/whathappenifinternetconnect-i2a7zcer68l6",
+            "zendesk_id": 360016376793
+        },
+        "web-browser-as-optisigns-player": {
+            "hash": "96b378cf34eca7a37900ceb00b758d00",
+            "updated_at": "2025-08-28T19:05:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/webbrowserasoptisignsplayer-cfvfa0u4948o",
+            "zendesk_id": 360016252394
+        },
+        "setting-up-your-samsung-smart-signage-platform-sssp-commercial-grade": {
+            "hash": "955d66f1620fcdfc20360d07215ada7e",
+            "updated_at": "2026-06-10T11:03:57Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/settingupyoursamsungsmartsi-tv9p3tavh78s",
+            "zendesk_id": 11116333259283
+        },
+        "how-to-use-mondaycom-app": {
+            "hash": "fbb6958c9c647ceac0f588b539d36b86",
+            "updated_at": "2025-09-04T15:31:20Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemondaycomapp-acf2f90m2ksw",
+            "zendesk_id": 11032964830227
+        },
+        "api-reference": {
+            "hash": "1a276356b576e2eed0bd92b9d558fb09",
+            "updated_at": "2025-09-05T15:04:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/apireference-lqc0flzlt9w5",
+            "zendesk_id": 4414558392339
+        },
+        "how-to-export-high-resolution-canvas-template-designs": {
+            "hash": "df1a50d2ed2b4d51d4f808b9f4979341",
+            "updated_at": "2025-08-28T19:46:15Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoexporthighresolutionca-zkxgy2wocfq7",
+            "zendesk_id": 360060049534
+        },
+        "show-offline-indicator-feature": {
+            "hash": "a2acb01325e7df6cbdc2024f573c9115",
+            "updated_at": "2025-08-28T19:46:51Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/showofflineindicatorfeature-6uijqlvmdz6u",
+            "zendesk_id": 12498801963027
+        },
+        "how-to-use-website-screenshot-app": {
+            "hash": "d96edcb06a2d5fbab5ddbc8f205c170e",
+            "updated_at": "2026-06-25T19:46:15Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousewebsitescreenshotap-uc6qd4t0ngex",
+            "zendesk_id": 10259143299219
+        },
+        "lg-webos-signage-commercial-grade": {
+            "hash": "f0141f7c9312a3cbfc6fd12be7200c84",
+            "updated_at": "2025-09-04T18:03:17Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/lgwebossignagecommercialgra-dk9n1xj5fwea",
+            "zendesk_id": 4414496579475
+        },
+        "is-there-storage-limit-for-my-account": {
+            "hash": "493f01a4e290c7d785964779d8bc2b89",
+            "updated_at": "2025-07-30T06:36:27Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/istherestoragelimitformyacc-yju82d8umcaz",
+            "zendesk_id": 360016253694
+        },
+        "showhide-offline-indicator-on-your-player": {
+            "hash": "406204513edc5c63dda3af6c235e2cf8",
+            "updated_at": "2025-08-29T21:13:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/showhideofflineindicatorony-fuyxb3oruxfo",
+            "zendesk_id": 12947820509971
+        },
+        "how-to-use-airtable-with-optisigns": {
+            "hash": "f91ad9e034b9479c1fc5d21df224354b",
+            "updated_at": "2025-08-29T20:20:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseairtablewithoptisig-3tcmwum5uf7k",
+            "zendesk_id": 9392587446675
+        },
+        "how-to-clean-data-on-the-optisigns-android-stick": {
+            "hash": "70fdc294db9e57f17fc7673ce1b4797f",
+            "updated_at": "2025-09-05T15:00:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocleandataontheoptisign-kd8dcuhtpcho",
+            "zendesk_id": 4404879296403
+        },
+        "use-your-macwindows-device-as-a-test-screen": {
+            "hash": "aa0c301eab31c6cb4fb737e5cff91a13",
+            "updated_at": "2025-09-04T20:39:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/useyourmacwindowsdeviceasat-1hb5878p1qzj",
+            "zendesk_id": 360021856013
+        },
+        "how-do-i-suggest-new-features-improvement": {
+            "hash": "7790191c5729f0b37806f3e2a129c14e",
+            "updated_at": "2025-08-28T19:44:58Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howdoisuggestnewfeaturesimp-2o4isypa3a8a",
+            "zendesk_id": 360016253574
+        },
+        "how-to-display-smartsheet-report-on-optisigns": {
+            "hash": "6fab019d05c9f143d66f542cb1e93b6e",
+            "updated_at": "2025-09-04T18:50:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplaysmartsheetrepor-zaa6g5i7cvwh",
+            "zendesk_id": 8399990754195
+        },
+        "how-to-use-the-video-stream-app": {
+            "hash": "652846eb8d0ec406e1883994392fe661",
+            "updated_at": "2025-09-04T15:17:48Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethevideostreamapp-32dfm2qy15bt",
+            "zendesk_id": 8369526604435
+        },
+        "how-to-use-rtsp-streams-on-optisigns-devices": {
+            "hash": "7837a108b72553a6d0857094e2596a52",
+            "updated_at": "2026-03-16T15:03:03Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousertspstreamsonoptisi-jittvwjuiua8",
+            "zendesk_id": 8098889840531
+        },
+        "how-to-use-rtsp-stream-on-windows-or-raspberry-pi-via-optisigns": {
+            "hash": "9e7452ca4fca867f892efe88c5627142",
+            "updated_at": "2025-09-02T19:20:51Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousertspstreamonwindows-7j45tval0tib",
+            "zendesk_id": 8066591235603
+        },
+        "how-to-use-the-weather-alert-app": {
+            "hash": "0ebca8db7e67e21b1199d375eb29f46e",
+            "updated_at": "2025-08-29T20:04:43Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheweatheralertapp-q7iafezd8ztc",
+            "zendesk_id": 6757989639827
+        },
+        "how-to-use-the-cap-alert-app": {
+            "hash": "55629eeca1d99588c289b39d52b5203a",
+            "updated_at": "2026-03-13T16:05:48Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethecapalertapp-xnyb8wzorf3r",
+            "zendesk_id": 6604468198291
+        },
+        "how-to-use-matterport-app": {
+            "hash": "c90060c4dcdd2fbedbb8a08b69eb8be0",
+            "updated_at": "2025-08-29T21:50:33Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousematterportapp-gbg93cvvupnr",
+            "zendesk_id": 6091289267475
+        },
+        "how-to-use-optisigns-screen-capture-app": {
+            "hash": "803ef9fb5c7f7e9807ce0c406d1462d4",
+            "updated_at": "2025-09-05T14:51:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseoptisignsscreencapt-92g9a30ddqao",
+            "zendesk_id": 6086986017299
+        },
+        "how-to-use-advanced-website-app": {
+            "hash": "b952c61536ea1b685544022d7d7cf600",
+            "updated_at": "2025-08-29T19:27:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseadvancedwebsiteapp-y1jbs1ws8p7k",
+            "zendesk_id": 5149077938835
+        },
+        "how-to-use-notion-app": {
+            "hash": "ae79c4b1a7a5251f7f7c7fa204782012",
+            "updated_at": "2025-08-29T21:52:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousenotionapp-wo7t93b4bbw7",
+            "zendesk_id": 5119724468371
+        },
+        "how-to-use-microsoft-excel-online-with-optisigns": {
+            "hash": "eaf1d7a1435f34e29b118f58233e40a2",
+            "updated_at": "2025-08-29T19:58:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemicrosoftexcelonlin-nqou3imdxkc9",
+            "zendesk_id": 4529298306963
+        },
+        "how-to-display-microsoft-teams-on-optisigns": {
+            "hash": "979a5e4a00d83da312e73986b189179e",
+            "updated_at": "2025-09-04T18:24:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplaymicrosoftteamso-trvzipubo097",
+            "zendesk_id": 4417940565139
+        },
+        "displaying-sharepoint-sites-on-optisigns": {
+            "hash": "9a385aee70302945e5127cb12bfa3c6e",
+            "updated_at": "2025-11-10T15:11:25Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/displayingsharepointsiteson-p1k03iwj69e0",
+            "zendesk_id": 4414539282067
+        },
+        "how-to-use-microsoft-powerpoint-with-optisigns": {
+            "hash": "55e4c4d26bce91c0501e99358e4d88e3",
+            "updated_at": "2026-02-05T17:57:12Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemicrosoftpowerpoint-f5bbvckmbr8i",
+            "zendesk_id": 4414355658899
+        },
+        "how-to-use-microsoft-teams-live-app-with-optisigns": {
+            "hash": "a167e2cd8b8b4c8b21724fc549271c71",
+            "updated_at": "2025-09-04T15:27:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemicrosoftteamslivea-sy15r2uq1siw",
+            "zendesk_id": 4411530012307
+        },
+        "how-to-use-livestreamcom-app": {
+            "hash": "1afbe7a03245a79454d334986c82b8f6",
+            "updated_at": "2025-08-29T19:33:32Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouselivestreamcomapp-rkhh7ac15kw3",
+            "zendesk_id": 4410655948563
+        },
+        "how-to-use-the-emergency-feed-app": {
+            "hash": "c271fa84fe8410699d7eb6ddc7f446b7",
+            "updated_at": "2025-12-29T21:30:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheemergencyfeedapp-50wp4069jhcg",
+            "zendesk_id": 4409673381011
+        },
+        "how-to-setup-wifi-with-optisigns-admin-mobile-app-on-optisigns-pre-configured-android-player": {
+            "hash": "d84ef7cb422e1093e8bc27d59e9dfdfc",
+            "updated_at": "2025-09-02T20:57:22Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtosetupwifiwithoptisigns-zk10csc4ytv6",
+            "zendesk_id": 4409607912211
+        },
+        "how-to-use-mrss-feeds-with-optisigns": {
+            "hash": "538def98b807838e656cbb57bd6bbe14",
+            "updated_at": "2025-08-29T19:30:31Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemrssfeedswithoptisi-fgosut62fqgq",
+            "zendesk_id": 4409448788499
+        },
+        "how-to-use-calendar-mix-app": {
+            "hash": "6fae2c7691f77115a347f0c1edcb217d",
+            "updated_at": "2025-09-04T14:10:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousecalendarmixapp-2t2k0ymg47iv",
+            "zendesk_id": 4408052949139
+        },
+        "how-to-use-slack-app": {
+            "hash": "8a1f47b28d89786517bec89de3537007",
+            "updated_at": "2025-12-22T15:34:06Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseslackapp-b189z2a2yayl",
+            "zendesk_id": 4407335862931
+        },
+        "how-to-use-the-microsoft-meeting-room-app": {
+            "hash": "52e7ad28e4a0b1a6e8c8a94e8fd0bb5e",
+            "updated_at": "2026-03-25T21:28:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethemicrosoftmeeting-kcmwa2z20ogw",
+            "zendesk_id": 4406214738707
+        },
+        "how-to-use-linkedin-app": {
+            "hash": "0083b2bdaa34aa87721b5c7e701029aa",
+            "updated_at": "2025-09-04T18:05:53Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouselinkedinapp-auwwmoyl3v5f",
+            "zendesk_id": 4406180781203
+        },
+        "how-to-use-microsoft-teams-meeting-app-with-optisigns": {
+            "hash": "379dfa0adad1e90b742c8fc0cbc91d1d",
+            "updated_at": "2025-09-04T18:53:44Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemicrosoftteamsmeeti-kynhl9s2tpi5",
+            "zendesk_id": 4404053129619
+        },
+        "how-to-use-the-social-mix-app": {
+            "hash": "88cf9caae13a5634365092e5fc4b45b5",
+            "updated_at": "2025-09-02T18:26:51Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethesocialmixapp-jotoxerx91yf",
+            "zendesk_id": 4403267825171
+        },
+        "how-to-use-the-cbc-news-app": {
+            "hash": "ebea04f2b461de54480508c03c6d24c6",
+            "updated_at": "2025-10-10T18:50:47Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethecbcnewsapp-3dv181e3c27z",
+            "zendesk_id": 1500011611322
+        },
+        "how-to-use-on-this-day-app": {
+            "hash": "30908a1c9e5be9734368db3965f4ce14",
+            "updated_at": "2025-08-29T21:31:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseonthisdayapp-kuhvn73hf5mk",
+            "zendesk_id": 1500009492202
+        },
+        "how-to-use-the-taggbox-display-app-with-optisigns": {
+            "hash": "fb6f1df0300d91a7226410ee0e0901f5",
+            "updated_at": "2025-09-04T15:16:41Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethetaggboxdisplayap-fv9yc266zanr",
+            "zendesk_id": 1500009343862
+        },
+        "how-to-use-the-mindmeister-app": {
+            "hash": "7cab0fba707edffb3bec0b572268e092",
+            "updated_at": "2025-08-28T20:06:43Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethemindmeisterapp-yopuik8tu5ha",
+            "zendesk_id": 1500005889381
+        },
+        "how-to-best-use-canva-with-optisigns": {
+            "hash": "b824ff9d5e77eb318a20e6f66eaa1cf1",
+            "updated_at": "2025-09-04T13:52:52Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtobestusecanvawithoptisi-w5j30achd268",
+            "zendesk_id": 1500005888781
+        },
+        "how-to-use-asana-app": {
+            "hash": "b579cfa171237ad12fb9298f2d1f8495",
+            "updated_at": "2025-09-04T15:11:27Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseasanaapp-nicqnxihtag3",
+            "zendesk_id": 1500002233221
+        },
+        "how-to-use-youtube-live-with-optisigns": {
+            "hash": "bd312164ee7810fba64cc92c82c71c47",
+            "updated_at": "2025-09-05T14:35:18Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseyoutubelivewithopti-zq60azgyc8m5",
+            "zendesk_id": 1500002131621
+        },
+        "how-to-use-hdmi-other-video-input-sources-in-with-optisigns": {
+            "hash": "c888dd3e5373cdd4983196c095a8d5f2",
+            "updated_at": "2025-09-02T20:19:01Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousehdmiothervideoinput-u6p7fcqqzc1s",
+            "zendesk_id": 1500002042241
+        },
+        "how-to-use-the-local-folder-app-in-optisigns": {
+            "hash": "89d6bd31659e6e23a8aa068b3fa01e7d",
+            "updated_at": "2025-09-04T19:36:02Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethelocalfolderappin-goaewddiketi",
+            "zendesk_id": 1500001985341
+        },
+        "how-to-use-youtube-live-schedule-with-optisigns": {
+            "hash": "49a1b3bf5a8b97083731dd53de9697c4",
+            "updated_at": "2026-01-22T15:44:40Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseyoutubeliveschedule-6gcq48nu2xbv",
+            "zendesk_id": 360060284174
+        },
+        "how-to-use-youtube-channel-with-optisigns": {
+            "hash": "2ea58c329e97807a90feeb3da0cc9ae7",
+            "updated_at": "2025-08-29T20:51:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseyoutubechannelwitho-j6h088po1xh5",
+            "zendesk_id": 360060202914
+        },
+        "how-to-put-zendesk-dashboard-on-your-signs": {
+            "hash": "cba86b5e95da78548e8fb23aae447ac1",
+            "updated_at": "2025-09-02T18:19:33Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoputzendeskdashboardony-wvyho78gcu5d",
+            "zendesk_id": 360060919453
+        },
+        "how-to-use-google-docs-with-optisigns": {
+            "hash": "75ffdfe8836a398a3f0253365d0c97b3",
+            "updated_at": "2025-09-05T14:48:20Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousegoogledocswithoptis-j8ncrumwtunj",
+            "zendesk_id": 360058855273
+        },
+        "how-to-use-google-sheets-with-optisigns": {
+            "hash": "2d5dcc15c37d362e3f8ee842b99476c7",
+            "updated_at": "2025-12-12T21:10:43Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousegooglesheetswithopt-nzhjminioow9",
+            "zendesk_id": 360056977214
+        },
+        "how-to-use-scrolling-website-app": {
+            "hash": "d46df4ec3d28e09689cf0c544e852390",
+            "updated_at": "2025-09-02T18:32:51Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousescrollingwebsiteapp-33wwdx5hai4a",
+            "zendesk_id": 360056356414
+        },
+        "how-to-create-and-use-virtual-screen-app": {
+            "hash": "08035508a0fd6df9e48bd95e1cbf51d8",
+            "updated_at": "2025-09-04T17:02:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateandusevirtualscr-aqrjwf0m1rax",
+            "zendesk_id": 360055900513
+        },
+        "how-to-use-kiosk-lite-formerly-known-as-interactive-kiosk-app": {
+            "hash": "3eaca4eb9d6a733a7c841a3e604182ca",
+            "updated_at": "2025-09-04T14:30:55Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousekioskliteformerlykn-txj1bt2y26g0",
+            "zendesk_id": 360053993934
+        },
+        "how-to-use-the-flash-message-app": {
+            "hash": "7e7e9efb50c7b298ad86366419f698bc",
+            "updated_at": "2025-12-23T21:35:47Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheflashmessageapp-qtlc978vlr60",
+            "zendesk_id": 360052827713
+        },
+        "how-to-use-emergency-messagealert-app": {
+            "hash": "3bc4376d932061b9e98e3a4f05649c1c",
+            "updated_at": "2025-09-04T20:02:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseemergencymessageale-wznnkil29j7s",
+            "zendesk_id": 360052513253
+        },
+        "how-to-use-the-data-studio-app": {
+            "hash": "611574df394f116ceca9ab8a684b50f9",
+            "updated_at": "2026-06-12T19:57:31Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethedatastudioapp-3smjcsog2dnp",
+            "zendesk_id": 360052088413
+        },
+        "how-to-use-facebook-recommendations-app": {
+            "hash": "d62fbf6c0b240c918df51ad3407b6143",
+            "updated_at": "2025-09-04T16:16:13Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousefacebookrecommendat-81qlsh1wijhu",
+            "zendesk_id": 360051317774
+        },
+        "how-to-use-instagram-business-app": {
+            "hash": "88664130122b1455a342f73d7e238b3c",
+            "updated_at": "2025-12-12T20:56:01Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseinstagrambusinessap-krs8g9xojqlw",
+            "zendesk_id": 360051495193
+        },
+        "how-to-use-trello-app": {
+            "hash": "5619919cb444af53a5c009205d185091",
+            "updated_at": "2025-09-05T14:35:39Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetrelloapp-vbuedrhlvsxw",
+            "zendesk_id": 360050244454
+        },
+        "how-to-use-youtube-with-optisigns": {
+            "hash": "ee0f349fc73b8d8a3cd33fb2e6813e50",
+            "updated_at": "2026-06-18T05:00:56Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseyoutubewithoptisign-r5hfr3k06ewy",
+            "zendesk_id": 360051014713
+        },
+        "how-to-use-follow-us-app": {
+            "hash": "e33308ecfcdb3536a74df14c15157498",
+            "updated_at": "2026-07-05T19:15:39Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousefollowusapp-0802708f135b",
+            "zendesk_id": 360049875794
+        },
+        "how-to-use-facebook-video-app": {
+            "hash": "d031506ba5290211c692f2b36cb4de7b",
+            "updated_at": "2025-09-05T14:55:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousefacebookvideoapp-mf29olfok032",
+            "zendesk_id": 360049872414
+        },
+        "how-to-use-dropbox-app": {
+            "hash": "689d1ed2213a9fd7133961810504822c",
+            "updated_at": "2025-10-10T11:34:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousedropboxapp-0s0ohvhaboiu",
+            "zendesk_id": 360050665413
+        },
+        "how-to-use-the-onedrive-app": {
+            "hash": "22536d5e01630a46acd6ffc6e49de829",
+            "updated_at": "2026-01-29T15:45:29Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheonedriveapp-x52mjs8ld2i5",
+            "zendesk_id": 360050665253
+        },
+        "how-to-use-google-trends-app": {
+            "hash": "d27d7a2d132325a484f344e9467ffb26",
+            "updated_at": "2025-08-28T20:18:21Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousegoogletrendsapp-n9ye4whn9m3z",
+            "zendesk_id": 360050664913
+        },
+        "how-to-use-wallsio-app": {
+            "hash": "d2df68939b12ff2f118e8312f58492fb",
+            "updated_at": "2025-09-04T20:16:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousewallsioapp-hs7d8bzcmth0",
+            "zendesk_id": 360049159814
+        },
+        "how-to-use-currency-exchange-app": {
+            "hash": "246715d188d8d919802a2206f7b6341f",
+            "updated_at": "2025-09-04T15:14:58Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousecurrencyexchangeapp-vso9hzcmozuo",
+            "zendesk_id": 360049156234
+        },
+        "how-to-use-crypto-index-crypto-exchange-app": {
+            "hash": "27cbff34ab1857dcdc1d5f7db109b0d6",
+            "updated_at": "2025-08-29T21:36:03Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousecryptoindexcryptoex-j325k7tyck81",
+            "zendesk_id": 360049919933
+        },
+        "how-to-use-market-index-app": {
+            "hash": "cd43ddd2454552a85eee3961326e4c8b",
+            "updated_at": "2025-08-29T21:28:36Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemarketindexapp-gx016k1od267",
+            "zendesk_id": 360049155994
+        },
+        "how-to-use-google-drive-app": {
+            "hash": "dd84c428cf40ba4d2ea08572421e1cc4",
+            "updated_at": "2025-08-29T19:49:24Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousegoogledriveapp-m2ht4qo10b8u",
+            "zendesk_id": 360049518313
+        },
+        "how-to-use-the-motivational-quote-app": {
+            "hash": "14be72ac9ac2066b801c9eddea00c153",
+            "updated_at": "2025-08-29T21:33:29Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethemotivationalquot-zxhmi9hxzdhn",
+            "zendesk_id": 360049030453
+        },
+        "how-to-use-facebook-live-stream-app": {
+            "hash": "b0eb36e0087e8c515a06974961d59629",
+            "updated_at": "2025-09-02T18:30:50Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousefacebooklivestreama-fcira2ee38gl",
+            "zendesk_id": 360048660813
+        },
+        "how-to-use-instagram-counter-app": {
+            "hash": "e339c3b2a1eb354b27404142ba91d05e",
+            "updated_at": "2025-08-29T20:18:47Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseinstagramcounterapp-1wxh50t6mbhq",
+            "zendesk_id": 360047501233
+        },
+        "how-to-use-google-traffic-app": {
+            "hash": "94d55c6f7e9de3bb1521700b02b99ec6",
+            "updated_at": "2025-08-28T19:56:05Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousegoogletrafficapp-36yy9g0ply8q",
+            "zendesk_id": 360047499893
+        },
+        "how-to-use-twitch-app": {
+            "hash": "d23df950a0568b47fb5f588e0116dabb",
+            "updated_at": "2025-09-05T14:57:13Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetwitchapp-4n1zafm73rws",
+            "zendesk_id": 360046859534
+        },
+        "how-to-use-the-facebook-counter-app": {
+            "hash": "6e65ed0456e6b3e8348fea38a22f2707",
+            "updated_at": "2026-02-02T15:31:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethefacebookcountera-hwk9n18exo2q",
+            "zendesk_id": 360044619014
+        },
+        "how-to-use-the-new-york-times-app": {
+            "hash": "ed1d2b86e9c2163a8a84f329af7a8f51",
+            "updated_at": "2025-10-10T19:47:31Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethenewyorktimesapp-s35cmvuvz227",
+            "zendesk_id": 360045121233
+        },
+        "how-to-use-the-guardian-app": {
+            "hash": "0db87d321b94f1924632cda6c095ecbe",
+            "updated_at": "2025-10-10T19:42:20Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheguardianapp-z0z1kwlqce7b",
+            "zendesk_id": 360044613874
+        },
+        "how-to-use-the-wall-street-journal-app": {
+            "hash": "c3d82d3931417d94a2a268823d6f37fd",
+            "updated_at": "2025-10-10T19:56:12Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethewallstreetjourna-gjz4n89uc3g5",
+            "zendesk_id": 360045120133
+        },
+        "how-to-use-the-stock-app": {
+            "hash": "1da5eccbf75fddfe919044218b266181",
+            "updated_at": "2026-01-26T17:43:31Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethestockapp-9sqjpxsi30kb",
+            "zendesk_id": 360044115513
+        },
+        "how-to-use-the-simple-clock-app": {
+            "hash": "7207ee0d3212f771f8010028f3568989",
+            "updated_at": "2026-01-23T15:20:46Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethesimpleclockapp-93nay8rs2q0l",
+            "zendesk_id": 360042950593
+        },
+        "how-to-use-world-clock-app": {
+            "hash": "2f42b5b24f3eb7edbb9817875b58b94b",
+            "updated_at": "2025-08-29T21:54:59Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseworldclockapp-3ew0g08xe809",
+            "zendesk_id": 360042450514
+        },
+        "how-to-use-the-countup-app": {
+            "hash": "381fdfd4b4b10b49e8daee13e70319a6",
+            "updated_at": "2026-05-05T17:07:53Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethecountupapp-38iznb40k6rq",
+            "zendesk_id": 360041222994
+        },
+        "how-to-use-the-countdown-app": {
+            "hash": "f4f6a0d6a8def255b828e7b1d6ea0f6c",
+            "updated_at": "2026-05-05T17:08:12Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethecountdownapp-36nap0yfdqq7",
+            "zendesk_id": 360041638433
+        },
+        "how-to-use-simple-calendar-app": {
+            "hash": "1c3ef4edff35ff4818a44bc4537fe90a",
+            "updated_at": "2025-08-29T18:57:26Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousesimplecalendarapp-gkgsf9z8odsv",
+            "zendesk_id": 360041481553
+        },
+        "how-to-use-the-techcrunch-news-app": {
+            "hash": "cb8e3a34fe3721adc0c28ee429592ee8",
+            "updated_at": "2025-10-10T19:57:42Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethetechcrunchnewsap-yzrrqsuux9mt",
+            "zendesk_id": 360040991534
+        },
+        "how-to-use-the-espn-news-app": {
+            "hash": "ced6f7c86a969a3af4ee010c3a0f68e4",
+            "updated_at": "2025-10-10T18:54:38Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousetheespnnewsapp-jg5rwaledcn3",
+            "zendesk_id": 360040991474
+        },
+        "how-to-use-the-cnn-news-app": {
+            "hash": "f5bcc893f432830612e4d023fc71dd51",
+            "updated_at": "2025-09-30T20:41:34Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethecnnnewsapp-7do22nwplh54",
+            "zendesk_id": 360041476213
+        },
+        "how-to-create-and-use-qr-code-call-to-action-app": {
+            "hash": "7ee31b6344a7860fb7577c154c0e20fd",
+            "updated_at": "2025-08-29T18:55:06Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateanduseqrcodecall-0rx3l6njctx6",
+            "zendesk_id": 360039264133
+        },
+        "how-to-create-and-use-yelp-reviews-wall": {
+            "hash": "987df138d1ab3463c19be678aaf33c9d",
+            "updated_at": "2025-09-02T20:21:49Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateanduseyelpreview-2g0m5ubazcte",
+            "zendesk_id": 360038769394
+        },
+        "how-to-create-and-use-google-reviews-wall": {
+            "hash": "6551f13a6f0643a38383d6fd1709ca1d",
+            "updated_at": "2025-09-04T20:21:45Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtocreateandusegooglerevi-qi6709mjdvwo",
+            "zendesk_id": 360037463934
+        },
+        "how-to-use-microsoft-outlook-calendar-with-optisigns": {
+            "hash": "7442dd84be1a49784987592df1e1de2a",
+            "updated_at": "2026-03-25T21:28:19Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousemicrosoftoutlookcal-ywwwbmmq7o0f",
+            "zendesk_id": 360036250853
+        },
+        "how-to-use-rss-feeds-with-optisigns": {
+            "hash": "705c21f2e19ec09a75072feb2f9f8486",
+            "updated_at": "2026-06-15T16:04:29Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouserssfeedswithoptisig-w5fwn1b31cjl",
+            "zendesk_id": 360037965133
+        },
+        "how-to-use-embed-app": {
+            "hash": "ccb20156f1c0947e102600b54f17cd7e",
+            "updated_at": "2025-09-04T15:10:33Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtouseembedapp-o8c5krxdyojf",
+            "zendesk_id": 360035815114
+        },
+        "how-to-display-microsoft-power-bi-dashboards-reports-with-optisigns": {
+            "hash": "bd82c397f349229e072b418a6adeef76",
+            "updated_at": "2026-03-25T21:24:00Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtodisplaymicrosoftpowerb-92hzzfpnlhrl",
+            "zendesk_id": 360024859713
+        },
+        "how-to-use-the-facebook-page-app": {
+            "hash": "c89f6a848ef80cc1b0eb9322111f3d57",
+            "updated_at": "2026-02-02T17:17:28Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethefacebookpageapp-die8bd11kxcm",
+            "zendesk_id": 360023848334
+        },
+        "how-to-use-published-google-slides-with-optisigns-old-way": {
+            "hash": "00e70d9d1c0105093ba7f876eb3e6cd6",
+            "updated_at": "2025-09-02T18:55:54Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousepublishedgoogleslid-z02gtkzqwntn",
+            "zendesk_id": 360016375573
+        },
+        "how-to-use-the-news-app": {
+            "hash": "5025b8111851f7a5265ae29076008fdd",
+            "updated_at": "2025-09-30T20:42:39Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethenewsapp-duhwaul7cvvo",
+            "zendesk_id": 360022393473
+        },
+        "how-to-use-google-calendar-with-optisigns": {
+            "hash": "1e61761b94d6bb58971f6f8e7ecdccfd",
+            "updated_at": "2025-11-21T01:13:20Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousegooglecalendarwitho-vjdkmc04niku",
+            "zendesk_id": 360019517953
+        },
+        "how-to-add-use-vimeo-video-with-optisigns": {
+            "hash": "8d19df4cc71fa0c14cf2a14ca5ffd94c",
+            "updated_at": "2025-09-04T18:00:23Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtoaddusevimeovideowithop-46qx49wxiwg6",
+            "zendesk_id": 360016254994
+        },
+        "how-to-use-the-website-app-and-display-urls-on-optisigns": {
+            "hash": "4535e723208a3b43a4ebe5fabbd98390",
+            "updated_at": "2026-02-03T18:12:07Z",
+            "document_name": "fileSearchStores/optibot-knowledge-base-0gjdfsnzvtv8/documents/howtousethewebsiteappanddis-57alfw4k6643",
+            "zendesk_id": 360016382473
+        }
+    }
+}

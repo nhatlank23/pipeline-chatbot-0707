@@ -22,18 +22,19 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 ARTICLES_DIR = os.path.join(DATA_DIR, "articles")
 
-# Ẩn bớt log info của các thư viện khác để CLI gọn gàng
-logging.basicConfig(level=logging.WARNING, format="%(asctime)s [%(levelname)s] %(message)s")
-logger = logging.getLogger("cli_chat")
+# Ẩn log của các thư viện để terminal sạch sẽ
+logging.getLogger("google").setLevel(logging.WARNING)
+logging.getLogger("urllib3").setLevel(logging.WARNING)
+logging.getLogger("httpx").setLevel(logging.WARNING)
 
 def local_rag_query(client, question: str, gemini_model: str) -> dict:
     """
-    Xử lý câu hỏi bằng cơ chế RAG cục bộ (TF-IDF và Context Injection).
+    Xử lý câu hỏi bằng RAG cục bộ.
     """
     all_file_paths = glob.glob(os.path.join(ARTICLES_DIR, "*.md"))
     if not all_file_paths:
         return {
-            "answer": "Lỗi: Không tìm thấy tài liệu markdown nào trong thư mục data/articles/. Vui lòng chạy scraper trước.",
+            "answer": "Không tìm thấy tài liệu hỗ trợ cục bộ. Hãy chạy đồng bộ dữ liệu trước.",
             "citations": []
         }
         
@@ -75,14 +76,13 @@ def local_rag_query(client, question: str, gemini_model: str) -> dict:
         )
     )
     
-    # Trích xuất link từ tài liệu được chọn để làm nguồn tham khảo hiển thị
     citations = []
     for path in selected_file_paths:
         parsed = parse_article_file(path)
         url = parsed["metadata"].get("article_url")
         if url and url not in citations:
             citations.append(url)
-            if len(citations) >= 3: # Giới hạn hiển thị 3 nguồn trích dẫn
+            if len(citations) >= 3:
                 break
                 
     return {
@@ -90,7 +90,10 @@ def local_rag_query(client, question: str, gemini_model: str) -> dict:
         "citations": citations
     }
 
-def main():
+def run_chat_loop():
+    """
+    Khởi động vòng lặp chat tương tác trong console.
+    """
     load_dotenv()
     
     gemini_api_key = clean_env_var(os.getenv("GEMINI_API_KEY"))
@@ -98,27 +101,26 @@ def main():
     store_name = clean_env_var(os.getenv("FILE_SEARCH_STORE_NAME"))
     
     if not gemini_api_key:
-        safe_print("Lỗi: Thiếu GEMINI_API_KEY trong file .env. Vui lòng cấu hình trước khi chạy.")
+        safe_print("Lỗi: Thiếu GEMINI_API_KEY trong file .env.")
         sys.exit(1)
         
     client = genai.Client(api_key=gemini_api_key)
     
-    # In tiêu đề chào mừng
-    safe_print("=" * 60)
-    safe_print("            CHÀO MỪNG BẠN ĐẾN VỚI OPTIBOT CLI CHATBOT")
-    safe_print("=" * 60)
+    # Giao diện chào mừng tối giản và thẩm mỹ
+    safe_print("\n" + "═" * 50)
+    safe_print(" 🤖  OPTIBOT - HỖ TRỢ TRỰC TUYẾN OPTISIGNS.COM")
+    safe_print("═" * 50)
     
     if store_name:
-        safe_print(f"[*] Trạng thái: Đang kết nối chế độ Cloud RAG (Store: {store_name})")
+        safe_print(" [Trạng thái: Kết nối Cloud RAG Mode]")
     else:
-        safe_print("[*] Trạng thái: Đang kết nối chế độ Local RAG (TF-IDF offline)")
-        
-    safe_print("[*] Nhập 'exit' hoặc 'quit' để kết thúc cuộc trò chuyện.\n")
+        safe_print(" [Trạng thái: Kết nối Local RAG Mode (Offline)]")
+    safe_print(" (Gõ 'exit' hoặc 'quit' để dừng trò chuyện)\n" + "─" * 50)
     
     while True:
         try:
-            # Nhập câu hỏi
-            sys.stdout.write("Bạn: ")
+            # Nhập tin nhắn từ người dùng
+            sys.stdout.write("\n👤 Bạn: ")
             sys.stdout.flush()
             user_input = sys.stdin.readline().strip()
             
@@ -126,40 +128,47 @@ def main():
                 continue
                 
             if user_input.lower() in ["exit", "quit"]:
-                safe_print("\nTạm biệt! Hẹn gặp lại bạn lần sau.")
+                safe_print("\n🤖 OptiBot: Cảm ơn bạn đã sử dụng dịch vụ. Tạm biệt!")
+                safe_print("═" * 50 + "\n")
                 break
                 
-            # Đang xử lý
-            sys.stdout.write("OptiBot đang trả lời...")
+            # Trạng thái đang xử lý động
+            sys.stdout.write("🤖 OptiBot đang nhập câu trả lời...")
             sys.stdout.flush()
             
-            # Xóa dòng "OptiBot đang trả lời..." trước khi in kết quả
-            sys.stdout.write("\r" + " " * 30 + "\r")
-            sys.stdout.flush()
-            
+            # Gọi API lấy câu trả lời
             if store_name:
-                # Chạy chế độ Cloud RAG
                 result = ask_optibot(client, store_name, user_input)
             else:
-                # Chạy chế độ Local RAG
                 result = local_rag_query(client, user_input, gemini_model)
                 
+            # Xóa chữ "OptiBot đang nhập..."
+            sys.stdout.write("\r" + " " * 40 + "\r")
+            sys.stdout.flush()
+            
             # In câu trả lời
-            safe_print("OptiBot:")
+            safe_print("🤖 OptiBot:")
             safe_print(result["answer"])
             
-            # In trích dẫn nguồn
+            # In nguồn trích dẫn
             if result["citations"]:
-                safe_print("\n[Nguồn tài liệu tham khảo]:")
+                safe_print("\n📄 [Tài liệu tham chiếu]:")
                 for url in result["citations"][:3]:
-                    safe_print(f"- {url}")
-            safe_print("-" * 60 + "\n")
+                    safe_print(f"  • {url}")
+            safe_print("─" * 50)
             
         except KeyboardInterrupt:
-            safe_print("\nTạm biệt! Hẹn gặp lại bạn lần sau.")
+            safe_print("\n🤖 OptiBot: Hẹn gặp lại bạn lần sau!")
+            safe_print("═" * 50 + "\n")
             break
         except Exception as e:
-            safe_print(f"\n[Lỗi xảy ra]: {e}\n")
+            # Xóa trạng thái đang nhập nếu lỗi
+            sys.stdout.write("\r" + " " * 40 + "\r")
+            sys.stdout.flush()
+            safe_print(f"❌ [Lỗi]: {e}")
+
+def main():
+    run_chat_loop()
 
 if __name__ == "__main__":
     main()
