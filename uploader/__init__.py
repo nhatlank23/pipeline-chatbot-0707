@@ -1,5 +1,5 @@
 """
-Uploader package for managing vectors/files in the OpenAI Vector Store.
+Package uploader dùng để quản lý các file/vector trên OpenAI Vector Store.
 """
 from .uploader import run_uploader
 

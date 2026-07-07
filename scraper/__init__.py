@@ -1,6 +1,6 @@
 """
-Scraper package for extracting articles and converting them to Markdown format.
+Package scraper dùng để cào các bài viết và chuyển đổi sang định dạng Markdown.
 """
-from .scraper import run_scraper
+from .zendesk_scraper import run_scrape as run_scraper
 
 __all__ = ["run_scraper"]

@@ -1,12 +1,12 @@
 """
-Main entrypoint for the RAG chatbot content sync pipeline.
+Entrypoint chính để chạy toàn bộ pipeline đồng bộ nội dung của RAG chatbot.
 
-This pipeline runs the following steps:
-1. Load environment variables.
-2. Scrape articles from Zendesk and convert to Markdown.
-3. Detect delta changes by comparing file hashes with the saved state.json.
-4. Upload new/modified articles to the OpenAI Vector Store, and delete removed ones.
-5. Save the updated state to state.json.
+Pipeline này thực hiện các bước sau:
+1. Nạp các biến môi trường (environment variables).
+2. Cào bài viết từ Zendesk và chuyển đổi sang định dạng Markdown.
+3. Phát hiện thay đổi (detect delta) bằng cách so sánh hash của file với trạng thái cũ trong state.json.
+4. Tải lên (upload) các bài viết mới/sửa đổi lên OpenAI Vector Store, và xóa các bài viết đã bị gỡ bỏ.
+5. Lưu trạng thái cập nhật mới nhất vào file state.json.
 """
 import os
 import json
@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 from scraper import run_scraper
 from uploader import run_uploader
 
-# Define directory paths
+# Định nghĩa các đường dẫn thư mục
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 ARTICLES_DIR = os.path.join(DATA_DIR, "articles")
@@ -24,11 +24,11 @@ STATE_FILE = os.path.join(DATA_DIR, "state.json")
 
 def load_state() -> dict:
     """
-    Loads the previous synchronization state from state.json.
+    Tải thông tin trạng thái đồng bộ trước đó từ file state.json.
     
     Returns:
-        A dictionary containing historical article hashes and OpenAI file IDs.
-        Format:
+        Một dict chứa mã hash lịch sử của bài viết và OpenAI file ID.
+        Định dạng:
         {
             "articles": {
                 "article_id": {
@@ -49,10 +49,10 @@ def load_state() -> dict:
 
 def save_state(state: dict):
     """
-    Saves the current synchronization state to state.json.
+    Lưu trạng thái đồng bộ hiện tại vào file state.json.
     
     Args:
-        state: The dictionary representing the sync state.
+        state: Dict đại diện cho trạng thái đồng bộ cần lưu.
     """
     os.makedirs(os.path.dirname(STATE_FILE), exist_ok=True)
     with open(STATE_FILE, "w", encoding="utf-8") as f:
@@ -60,36 +60,36 @@ def save_state(state: dict):
 
 def calculate_hash(content: str) -> str:
     """
-    Calculates the MD5 hash of the given content string.
+    Tính toán mã MD5 hash của một chuỗi nội dung văn bản.
     
     Args:
-        content: The text content to hash.
+        content: Nội dung văn bản cần tính hash.
         
     Returns:
-        The MD5 hex digest string.
+        Mã hex digest của MD5 dưới dạng chuỗi.
     """
     return hashlib.md5(content.encode("utf-8")).hexdigest()
 
 def detect_delta(current_articles: list[dict], previous_state: dict) -> tuple[list[dict], list[str]]:
     """
-    Compares the newly scraped articles with the previous state to detect:
-    - New articles (or modified ones where the hash changed).
-    - Deleted articles (no longer present in the scrape results).
+    So sánh các bài viết mới cào với trạng thái lưu trữ trước đó để phát hiện:
+    - Bài viết mới (hoặc bài viết bị thay đổi nội dung dựa trên mã hash).
+    - Bài viết bị xóa (không còn xuất hiện trong kết quả cào mới nhất).
     
     Args:
-        current_articles: List of recently scraped article metadata and content.
-        previous_state: The loaded state dictionary.
+        current_articles: Danh sách thông tin bài viết vừa cào.
+        previous_state: Dict trạng thái cũ đã được tải lên từ state.json.
         
     Returns:
-        A tuple of (articles_to_sync, openai_file_ids_to_delete).
+        Một tuple gồm (danh sách bài viết cần đồng bộ, danh sách openai_file_id cần xóa).
     """
-    # TODO: Implement delta detection logic
-    # 1. Identify which articles are new or have modified hashes
-    # 2. Identify which article IDs present in previous_state are missing from current_articles
+    # TODO: Triển khai logic phát hiện delta (thay đổi)
+    # 1. Xác định bài viết nào là mới hoặc đã bị thay đổi mã hash.
+    # 2. Xác định bài viết ID nào có trong previous_state nhưng không còn ở current_articles để xóa đi.
     return [], []
 
 def main():
-    # Load environment variables
+    # Nạp các biến môi trường từ file .env
     load_dotenv()
     
     openai_api_key = os.getenv("OPENAI_API_KEY")
@@ -97,28 +97,28 @@ def main():
     zendesk_base_url = os.getenv("ZENDESK_BASE_URL")
     
     if not all([openai_api_key, vector_store_id, zendesk_base_url]):
-        print("Error: Missing required environment variables. Please check your .env file.")
+        print("Lỗi: Thiếu các biến môi trường bắt buộc. Vui lòng kiểm tra lại file .env của bạn.")
         return
 
-    print("Starting pipeline sync...")
+    print("Bắt đầu đồng bộ pipeline...")
     
-    # TODO: Orchestrate the entire pipeline:
-    # 1. Scrape and convert
+    # TODO: Phối hợp toàn bộ các bước trong pipeline:
+    # 1. Cào bài viết và chuyển đổi sang markdown
     # scraped_articles = run_scraper(zendesk_base_url, ARTICLES_DIR)
     
-    # 2. Load previous state
+    # 2. Đọc trạng thái cũ
     # previous_state = load_state()
     
-    # 3. Detect delta
+    # 3. Phát hiện delta
     # articles_to_sync, files_to_delete = detect_delta(scraped_articles, previous_state)
     
-    # 4. Upload/Delete vectors via OpenAI API
+    # 4. Upload/Delete vector thông qua OpenAI API
     # run_uploader(articles_to_sync, files_to_delete, vector_store_id, openai_api_key)
     
-    # 5. Save new state
+    # 5. Lưu trạng thái đồng bộ mới
     # save_state(updated_state)
     
-    print("Pipeline sync finished.")
+    print("Hoàn thành đồng bộ pipeline.")
 
 if __name__ == "__main__":
     main()
