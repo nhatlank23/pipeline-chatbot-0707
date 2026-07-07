@@ -98,6 +98,8 @@ def html_to_markdown(html: str) -> str:
         
     # Loại bỏ các thẻ có class chứa từ khóa "breadcrumb"
     for tag in soup.find_all(class_=True):
+        if not tag.attrs:
+            continue
         classes = tag.get("class", [])
         if isinstance(classes, str):
             classes = [classes]

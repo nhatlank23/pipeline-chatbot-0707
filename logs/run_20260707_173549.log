@@ -1,0 +1,4 @@
+2026-07-07 17:35:49,672 [INFO] ===============================================
+2026-07-07 17:35:49,672 [INFO] CHẠY TRONG CHẾ ĐỘ THỬ NGHIỆM (DRY RUN)
+2026-07-07 17:35:49,673 [INFO] ===============================================
+2026-07-07 17:35:49,673 [ERROR] Lỗi: Thiếu các cấu hình bắt buộc trong file .env (GEMINI_API_KEY, ZENDESK_BASE_URL, SPACES_BUCKET).

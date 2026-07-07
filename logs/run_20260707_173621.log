@@ -1,0 +1,9 @@
+2026-07-07 17:36:21,007 [INFO] ===============================================
+2026-07-07 17:36:21,009 [INFO] CHẠY TRONG CHẾ ĐỘ THỬ NGHIỆM (DRY RUN)
+2026-07-07 17:36:21,010 [INFO] ===============================================
+2026-07-07 17:36:22,404 [INFO] [Dry Run] Tải state.json từ Spaces bucket=dummy-bucket
+2026-07-07 17:36:22,404 [INFO] Bắt đầu chạy scraper để quét các bài viết mới từ Zendesk...
+2026-07-07 17:36:22,405 [INFO] Bắt đầu cào dữ liệu từ URL: https://support.zendesk.com
+2026-07-07 17:37:39,392 [INFO] Tổng số bài viết lấy về được: 4474
+2026-07-07 17:37:58,676 [ERROR] Lỗi nghiêm trọng xảy ra trong quá trình chạy pipeline: 'NoneType' object has no attribute 'get'
+2026-07-07 17:37:59,039 [INFO] [Dry Run] Sẽ upload file log F:\CV\ALPHA\HOME_CODING\pipeline-chatbot-0707\logs\run_20260707_173621.log lên Spaces -> key=logs/run_20260707_173621.log

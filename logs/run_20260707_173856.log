@@ -1,0 +1,20 @@
+2026-07-07 17:38:56,322 [INFO] ===============================================
+2026-07-07 17:38:56,323 [INFO] CHẠY TRONG CHẾ ĐỘ THỬ NGHIỆM (DRY RUN)
+2026-07-07 17:38:56,323 [INFO] ===============================================
+2026-07-07 17:38:57,329 [INFO] [Dry Run] Tải state.json từ Spaces bucket=dummy-bucket
+2026-07-07 17:38:57,329 [INFO] Bắt đầu chạy scraper để quét các bài viết mới từ Zendesk...
+2026-07-07 17:38:57,329 [INFO] Bắt đầu cào dữ liệu từ URL: https://support.zendesk.com
+2026-07-07 17:40:02,487 [INFO] Tổng số bài viết lấy về được: 4474
+2026-07-07 17:40:23,960 [ERROR] Lỗi nghiêm trọng xảy ra trong quá trình chạy pipeline: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "F:\CV\ALPHA\HOME_CODING\pipeline-chatbot-0707\main.py", line 196, in main
+    scraped_articles = run_scrape(zendesk_base_url, ARTICLES_DIR)
+  File "F:\CV\ALPHA\HOME_CODING\pipeline-chatbot-0707\scraper\zendesk_scraper.py", line 168, in run_scrape
+    md_content = html_to_markdown(art["html_body"])
+  File "F:\CV\ALPHA\HOME_CODING\pipeline-chatbot-0707\scraper\zendesk_scraper.py", line 101, in html_to_markdown
+    classes = tag.get("class", [])
+  File "C:\Users\NGUYEN NHAT LAN\AppData\Local\Programs\Python\Python314\Lib\site-packages\bs4\element.py", line 2449, in get
+    return self.attrs.get(key, default)
+           ^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2026-07-07 17:40:24,362 [INFO] [Dry Run] Sẽ upload file log F:\CV\ALPHA\HOME_CODING\pipeline-chatbot-0707\logs\run_20260707_173856.log lên Spaces -> key=logs/run_20260707_173856.log

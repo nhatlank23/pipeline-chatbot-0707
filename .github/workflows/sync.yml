@@ -1,0 +1,59 @@
+name: Daily Zendesk Scraper & Gemini Sync
+
+on:
+  schedule:
+    # Chạy tự động lúc 00:00 UTC hàng ngày (tương đương 07:00 AM giờ Việt Nam)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+    # Cho phép kích hoạt chạy thủ công từ giao diện GitHub Action
+
+jobs:
+  sync-job:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # Cấp quyền ghi để commit ngược lại file state.json và logs vào repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create data and logs directories
+        run: |
+          mkdir -p data
+          mkdir -p logs
+
+      - name: Create .env file from GitHub Secrets
+        run: |
+          echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env
+          echo "GEMINI_MODEL=gemini-2.5-flash" >> .env
+          echo "ZENDESK_BASE_URL=https://support.optisigns.com" >> .env
+          echo "FILE_SEARCH_STORE_NAME=${{ secrets.FILE_SEARCH_STORE_NAME }}" >> .env
+
+      - name: Build Docker image
+        run: docker build -t optibot-sync .
+
+      - name: Run Scraper Sync in Docker
+        run: |
+          docker run --rm \
+            --env-file .env \
+            -v ${{ github.workspace }}/data:/app/data \
+            -v ${{ github.workspace }}/logs:/app/logs \
+            optibot-sync
+
+      - name: Fix file permissions for Git
+        if: always()
+        run: |
+          # Đảm bảo các file được tạo từ Docker container (user root) được gán quyền cho user hiện tại của GitHub Runner
+          sudo chown -R $USER:$USER ${{ github.workspace }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Chỉ add file state.json và thư mục logs
+          git add data/state.json logs/
+          
+          # Tránh lỗi khi không có thay đổi gì (no changes to commit)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-sync articles and update state [skip ci]" && git push)
