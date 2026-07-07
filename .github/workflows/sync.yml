@@ -53,7 +53,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Chỉ add file state.json và thư mục logs
-          git add data/state.json logs/
+          git add -f data/state.json logs/
           
           # Tránh lỗi khi không có thay đổi gì (no changes to commit)
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-sync articles and update state [skip ci]" && git push)
