@@ -87,10 +87,15 @@ def main():
     # Nạp các biến môi trường
     load_dotenv()
     
-    # Thiết lập CLI arguments
     parser = argparse.ArgumentParser(description="Zendesk to Gemini RAG sync pipeline.")
-    parser.add_argument("--dry-run", action="store_true", help="Chạy thử nghiệm không gọi API Gemini thực tế.")
+    parser.add_argument("--dry-run", action="store_true", help="Run sync pipeline in dry-run mode.")
+    parser.add_argument("--chat", "-c", action="store_true", help="Start interactive CLI chatbot interface.")
     args = parser.parse_args()
+    
+    if args.chat:
+        from cli_chat import run_chat_loop
+        run_chat_loop()
+        sys.exit(0)
     
     timestamp = time.strftime("%Y%m%d_%H%M%S")
     local_log_path = setup_log_file(timestamp)

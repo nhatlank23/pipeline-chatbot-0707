@@ -108,7 +108,8 @@ def upload_files(client: genai.Client, store_name: str, file_paths: list[str]) -
     
     logger.info(f"Bắt đầu upload {len(file_paths)} tài liệu lên File Search Store: {store_name}...")
     
-    for path in file_paths:
+    total = len(file_paths)
+    for idx, path in enumerate(file_paths, 1):
         try:
             parsed = parse_article_file(path)
             title = parsed["metadata"].get("title", "no-title")
@@ -120,7 +121,7 @@ def upload_files(client: genai.Client, store_name: str, file_paths: list[str]) -
             if not slug:
                 slug = f"doc-{zendesk_id}"
                 
-            logger.info(f"Đang upload file: {path} (Slug: {slug})...")
+            logger.info(f"[{idx}/{total}] Đang upload file: {path} (Slug: {slug})...")
             
             # Gọi API upload lên store
             operation = client.file_search_stores.upload_to_file_search_store(
@@ -143,11 +144,11 @@ def upload_files(client: genai.Client, store_name: str, file_paths: list[str]) -
                 
             if operation.error:
                 error_msg = getattr(operation.error, "message", str(operation.error))
-                logger.error(f"Lỗi indexing file {path}: {error_msg}")
+                logger.error(f"[{idx}/{total}] Lỗi indexing file {path}: {error_msg}")
                 failed.append({"file_path": path, "error": error_msg})
             else:
                 doc_name = getattr(operation.response, "document_name", "Unknown")
-                logger.info(f"Upload thành công file {path} -> Document Resource: {doc_name}")
+                logger.info(f"[{idx}/{total}] Upload thành công file {path} -> Document Resource: {doc_name}")
                 succeeded.append({
                     "file_path": path,
                     "document_name": doc_name,
