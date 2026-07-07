@@ -1,12 +1,12 @@
 """
-Entrypoint chính để chạy toàn bộ pipeline đồng bộ nội dung của RAG chatbot.
+Entrypoint chính để chạy toàn bộ pipeline đồng bộ nội dung của RAG chatbot sử dụng Gemini.
 
 Pipeline này thực hiện các bước sau:
 1. Nạp các biến môi trường (environment variables).
 2. Cào bài viết từ Zendesk và chuyển đổi sang định dạng Markdown.
 3. Phát hiện thay đổi (detect delta) bằng cách so sánh hash của file với trạng thái cũ trong state.json.
-4. Tải lên (upload) các bài viết mới/sửa đổi lên OpenAI Vector Store, và xóa các bài viết đã bị gỡ bỏ.
-5. Lưu trạng thái cập nhật mới nhất vào file state.json.
+4. Quét và kiểm tra tính hợp lệ của kho dữ liệu Markdown tại thư mục cục bộ phục vụ cho Gemini RAG.
+5. Lưu trạng thái đồng bộ mới vào file state.json.
 """
 import os
 import json
@@ -14,7 +14,7 @@ import hashlib
 from dotenv import load_dotenv
 
 from scraper import run_scraper
-from uploader import run_uploader
+from uploader import load_local_articles, verify_and_summarize
 
 # Định nghĩa các đường dẫn thư mục
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -27,14 +27,13 @@ def load_state() -> dict:
     Tải thông tin trạng thái đồng bộ trước đó từ file state.json.
     
     Returns:
-        Một dict chứa mã hash lịch sử của bài viết và OpenAI file ID.
+        Một dict chứa mã hash lịch sử của bài viết.
         Định dạng:
         {
             "articles": {
                 "article_id": {
                     "hash": "...",
-                    "file_path": "...",
-                    "openai_file_id": "..."
+                    "file_path": "..."
                 }
             }
         }
@@ -81,28 +80,25 @@ def detect_delta(current_articles: list[dict], previous_state: dict) -> tuple[li
         previous_state: Dict trạng thái cũ đã được tải lên từ state.json.
         
     Returns:
-        Một tuple gồm (danh sách bài viết cần đồng bộ, danh sách openai_file_id cần xóa).
+        Một tuple gồm (danh sách bài viết cần đồng bộ/cập nhật, danh sách article_id bị xóa).
     """
-    # TODO: Triển khai logic phát hiện delta (thay đổi)
-    # 1. Xác định bài viết nào là mới hoặc đã bị thay đổi mã hash.
-    # 2. Xác định bài viết ID nào có trong previous_state nhưng không còn ở current_articles để xóa đi.
+    # TODO: Triển khai logic phát hiện delta (thay đổi) ở bước sau
     return [], []
 
 def main():
     # Nạp các biến môi trường từ file .env
     load_dotenv()
     
-    openai_api_key = os.getenv("OPENAI_API_KEY")
-    vector_store_id = os.getenv("VECTOR_STORE_ID")
+    gemini_api_key = os.getenv("GEMINI_API_KEY")
     zendesk_base_url = os.getenv("ZENDESK_BASE_URL")
     
-    if not all([openai_api_key, vector_store_id, zendesk_base_url]):
-        print("Lỗi: Thiếu các biến môi trường bắt buộc. Vui lòng kiểm tra lại file .env của bạn.")
+    if not all([gemini_api_key, zendesk_base_url]):
+        print("Lỗi: Thiếu các biến môi trường bắt buộc (GEMINI_API_KEY, ZENDESK_BASE_URL). Vui lòng kiểm tra lại file .env")
         return
 
     print("Bắt đầu đồng bộ pipeline...")
     
-    # TODO: Phối hợp toàn bộ các bước trong pipeline:
+    # TODO: Phối hợp toàn bộ các bước trong pipeline ở bước tiếp theo:
     # 1. Cào bài viết và chuyển đổi sang markdown
     # scraped_articles = run_scraper(zendesk_base_url, ARTICLES_DIR)
     
@@ -112,8 +108,9 @@ def main():
     # 3. Phát hiện delta
     # articles_to_sync, files_to_delete = detect_delta(scraped_articles, previous_state)
     
-    # 4. Upload/Delete vector thông qua OpenAI API
-    # run_uploader(articles_to_sync, files_to_delete, vector_store_id, openai_api_key)
+    # 4. Quét và kiểm tra tính hợp lệ thư mục tri thức cục bộ phục vụ cho Gemini
+    # local_docs = load_local_articles(ARTICLES_DIR)
+    # summary = verify_and_summarize(local_docs, min_required=30)
     
     # 5. Lưu trạng thái đồng bộ mới
     # save_state(updated_state)

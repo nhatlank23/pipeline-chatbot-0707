@@ -78,7 +78,7 @@ def fetch_all_articles(base_url: str) -> list[dict]:
                 "updated_at": art.get("updated_at", ""),
                 "section_id": art.get("section_id")
             })
-        url = data.get("next_page")
+        url = data.get("next_page") or data.get("links", {}).get("next")
         
     return articles
 
